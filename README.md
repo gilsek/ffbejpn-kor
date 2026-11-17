@@ -1,4 +1,4 @@
-# Exvius KR (FFBE 일본판 한국어 오프라인) v0.1.0
+# Exvius KR (FFBE 일본판 한국어 오프라인) v0.1.1
 
 일본판 FINAL FANTASY BRAVE EXVIUS 11.0.0을 **서버 없이 혼자 플레이**할 수 있게 만든 비공식 한국어 오프라인 앱입니다.
 영문판 오프라인 프로젝트 [Exvius Offline](https://github.com/Elvlin/exvius-offline)의 구조를 바탕으로 일본판에 맞게 옮기고 한국어로 번역했습니다.
@@ -12,7 +12,7 @@
 - 시험한 기기는 Android 15 태블릿(Lenovo TB373FU) 1대뿐입니다. 다른 기기에서는 문제가 있을 수 있습니다.
 
 ## 설치 방법
-1. [Releases](https://github.com/gilsek/ffbejpn-kor/releases/latest)에서 `ExviusKR-v0.1.0.apk`를 받아 설치합니다. (알 수 없는 출처 앱 설치를 허용해야 합니다.)
+1. [Releases](https://github.com/gilsek/ffbejpn-kor/releases/latest)에서 최신 `ExviusKR-v*.apk`를 받아 설치합니다. (알 수 없는 출처 앱 설치를 허용해야 합니다.)
 2. 앱을 실행하면 게임 데이터를 내려받습니다. 화면을 꺼도 알림으로 진행되며, 중간에 끊기면 이어서 받습니다.
 3. 다운로드가 끝나면 게임이 시작됩니다. 이후에는 인터넷 없이 플레이할 수 있습니다.
 
@@ -25,7 +25,7 @@
 
 ## 진행 상황
 
-> **v0.1.0 · 2026-11-17 기준**　✅ 플레이 가능　🟡 제한 있음　⛔ 미지원　➖ 오프라인이라 해당 없음
+> **v0.1.1 · 2026-11-17 기준**　✅ 플레이 가능　🟡 제한 있음　⛔ 미지원　➖ 오프라인이라 해당 없음
 
 ### 게임 콘텐츠
 
