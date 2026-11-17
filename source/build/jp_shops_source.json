@@ -1,0 +1,927 @@
+{
+ "note": "JP 11.0.0 permanent exchange shops, transcribed from saved guide pages (2026-11-10). Names verbatim from the pages; rewards resolved to JP master ids by build step. \"assumed\" marks values the page did not state.",
+ "shops": [
+  {
+   "key": "trust",
+   "name_ja": "アイテム交換",
+   "name_ko": "트러스트 코인 교환",
+   "category": 3,
+   "currency": "23:300",
+   "reset_months": 0,
+   "page_updated": "2024-01-11",
+   "sources": [
+    "https://altema.jp/ffbe/torasutocoin",
+    "https://altema.jp/ffbe/coinchangechara",
+    "https://ffbe.gorillawiki.jp/entry/10385"
+   ],
+   "location": "ホーム画面 > ショップ > アイテム交換",
+   "products": [
+    {
+     "name": "トラストモーグリ(すっぴん)",
+     "reward": "10:904000115:1",
+     "price": 10000,
+     "limit": 1
+    },
+    {
+     "name": "星5セレクト召喚チケット",
+     "reward": "23:260:1",
+     "price": 5000,
+     "limit": 3
+    },
+    {
+     "name": "ランディの輝源",
+     "reward": "20:300000820:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "ホークアイの輝源",
+     "reward": "20:300000850:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "リースの輝源",
+     "reward": "20:300000840:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "ケヴィンの輝源",
+     "reward": "20:300000830:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "アリューゼの輝源",
+     "reward": "20:300000620:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "レナスの輝源",
+     "reward": "20:300000600:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "フレイの輝源",
+     "reward": "20:300000610:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "エスタークの輝源",
+     "reward": "20:300000240:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "りゅうおうの輝源",
+     "reward": "20:300000260:1",
+     "price": 5000,
+     "limit": 1
+    },
+    {
+     "name": "キングタフポット",
+     "reward": "10:900000301:1",
+     "price": 200,
+     "limit": 10
+    },
+    {
+     "name": "キングマジポット",
+     "reward": "10:900001301:1",
+     "price": 200,
+     "limit": 10
+    },
+    {
+     "name": "キングパワポット",
+     "reward": "10:900002301:1",
+     "price": 200,
+     "limit": 10
+    },
+    {
+     "name": "キングデフポット",
+     "reward": "10:900003301:1",
+     "price": 200,
+     "limit": 10
+    },
+    {
+     "name": "キングインテリポット",
+     "reward": "10:900004301:1",
+     "price": 200,
+     "limit": 10
+    },
+    {
+     "name": "キングスピルポット",
+     "reward": "10:900005301:1",
+     "price": 200,
+     "limit": 10
+    },
+    {
+     "name": "キングバーストポット",
+     "reward": "10:905000104:1",
+     "price": 200,
+     "limit": 10
+    },
+    {
+     "name": "メタルミニテンキング(LvMAX)",
+     "reward": "10:900020401:1:100:60",
+     "price": 150,
+     "limit": 10
+    },
+    {
+     "name": "ギルガメタワー",
+     "reward": "10:900010501:1",
+     "price": 100,
+     "limit": 10
+    },
+    {
+     "name": "赤幻鉱",
+     "reward": "20:106210300:1",
+     "price": 50,
+     "limit": 10
+    },
+    {
+     "name": "青幻鉱",
+     "reward": "20:106210400:1",
+     "price": 50,
+     "limit": 10
+    },
+    {
+     "name": "緑幻鉱",
+     "reward": "20:106210500:1",
+     "price": 50,
+     "limit": 10
+    },
+    {
+     "name": "白幻鉱",
+     "reward": "20:106210600:1",
+     "price": 50,
+     "limit": 10
+    },
+    {
+     "name": "黒幻鉱",
+     "reward": "20:106210700:1",
+     "price": 50,
+     "limit": 10
+    },
+    {
+     "name": "黄幻鉱",
+     "reward": "20:106210800:1",
+     "price": 50,
+     "limit": 10
+    },
+    {
+     "name": "橙幻鉱",
+     "reward": "20:106210900:1",
+     "price": 50,
+     "limit": 10
+    },
+    {
+     "name": "紫幻鉱",
+     "reward": "20:106211000:1",
+     "price": 50,
+     "limit": 10
+    },
+    {
+     "name": "幻鉱",
+     "reward": "20:106210200:1",
+     "price": 50,
+     "limit": 10
+    }
+   ]
+  },
+  {
+   "key": "gil",
+   "name_ja": "ギルショップ",
+   "name_ko": "길 상점",
+   "category": 6,
+   "currency": "30:0",
+   "reset_months": 0,
+   "page_updated": "2024-01-11",
+   "sources": [
+    "https://altema.jp/ffbe/gillshop"
+   ],
+   "location": "ホーム画面 > ショップ > ギルで購入 (JP 11.0.0 device: category 6, 2026-11-10 12:49:51). altema 2024-01-11 says スペシャルショップ > バナー右へ2回",
+   "unlimited": true,
+   "products": [
+    {
+     "name": "神魔王結晶",
+     "reward": "20:290050500:1",
+     "price": 5120,
+     "limit": null
+    },
+    {
+     "name": "妖精王の密書",
+     "reward": "20:290060000:1",
+     "price": 3960,
+     "limit": null
+    },
+    {
+     "name": "楽園の幻虹花",
+     "reward": "20:290060100:1",
+     "price": 3960,
+     "limit": null
+    },
+    {
+     "name": "終焉の預言書",
+     "reward": "20:290060400:1",
+     "price": 3960,
+     "limit": null
+    },
+    {
+     "name": "神獣の極彩角",
+     "reward": "20:290060300:1",
+     "price": 3960,
+     "limit": null
+    },
+    {
+     "name": "災禍の封神珠",
+     "reward": "20:290060200:1",
+     "price": 3960,
+     "limit": null
+    },
+    {
+     "name": "神魔結晶",
+     "reward": "20:290050400:1",
+     "price": 3960,
+     "limit": null
+    },
+    {
+     "name": "生命の魔素",
+     "reward": "20:290040400:1",
+     "price": 2480,
+     "limit": null
+    },
+    {
+     "name": "幻獣の涙",
+     "reward": "20:290040300:1",
+     "price": 2480,
+     "limit": null
+    },
+    {
+     "name": "大竜の心臓",
+     "reward": "20:290040200:1",
+     "price": 2480,
+     "limit": null
+    },
+    {
+     "name": "神々の遺物",
+     "reward": "20:290040100:1",
+     "price": 2480,
+     "limit": null
+    },
+    {
+     "name": "精霊の光粉",
+     "reward": "20:290040000:1",
+     "price": 2480,
+     "limit": null
+    },
+    {
+     "name": "神結晶",
+     "reward": "20:290050300:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "奇想天外の箱",
+     "reward": "20:290031000:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "幸運の種子",
+     "reward": "20:290030900:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "知性の光片",
+     "reward": "20:290030800:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "魔性の滴り",
+     "reward": "20:290030700:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "闘気の種",
+     "reward": "20:290030600:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "堅強な岩石",
+     "reward": "20:290030500:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "異界の雫",
+     "reward": "20:290030400:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "時空の教典",
+     "reward": "20:290030300:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "深海の魔花",
+     "reward": "20:290030200:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "天空の灰",
+     "reward": "20:290030100:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "大地の凝晶",
+     "reward": "20:290030000:1",
+     "price": 1620,
+     "limit": null
+    },
+    {
+     "name": "破滅の書",
+     "reward": "20:290020900:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "金の卵",
+     "reward": "20:290020800:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "幻結晶",
+     "reward": "20:290050200:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "虹色の針",
+     "reward": "20:290020700:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "高質機素",
+     "reward": "20:290020600:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "燐光の角",
+     "reward": "20:290020500:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "蒼い宝珠",
+     "reward": "20:290020400:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "魔原石",
+     "reward": "20:290020300:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "真紅の涙",
+     "reward": "20:290020200:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "生命の種",
+     "reward": "20:290020100:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "光の石塊",
+     "reward": "20:290020000:1",
+     "price": 960,
+     "limit": null
+    },
+    {
+     "name": "魅惑の砂",
+     "reward": "20:290010200:1",
+     "price": 480,
+     "limit": null
+    },
+    {
+     "name": "知識の珠",
+     "reward": "20:290010100:1",
+     "price": 480,
+     "limit": null
+    },
+    {
+     "name": "戦獣の肉",
+     "reward": "20:290010000:1",
+     "price": 480,
+     "limit": null
+    },
+    {
+     "name": "幻結晶の欠片",
+     "reward": "20:290050100:1",
+     "price": 240,
+     "limit": null
+    },
+    {
+     "name": "手榴弾",
+     "reward": "20:105000100:1",
+     "price": 500,
+     "limit": null
+    },
+    {
+     "name": "徹甲手榴弾",
+     "reward": "20:105001100:1",
+     "price": 1000,
+     "limit": null
+    },
+    {
+     "name": "帝国式手榴弾",
+     "reward": "20:105005100:1",
+     "price": 50000,
+     "limit": null
+    },
+    {
+     "name": "手裏剣",
+     "reward": "20:105002100:1",
+     "price": 6000,
+     "limit": null
+    },
+    {
+     "name": "風魔手裏剣",
+     "reward": "20:105003100:1",
+     "price": 24000,
+     "limit": null
+    },
+    {
+     "name": "風車",
+     "reward": "20:105004100:1",
+     "price": 65500,
+     "limit": null
+    },
+    {
+     "name": "ぜに(グループ1)",
+     "reward": "20:105010000:1",
+     "price": 3000000,
+     "limit": null,
+     "assumed": [
+      "reward"
+     ]
+    },
+    {
+     "name": "ぜに(グループ2)",
+     "reward": "20:105010100:1",
+     "price": 3000000,
+     "limit": null,
+     "assumed": [
+      "reward"
+     ]
+    },
+    {
+     "name": "ぜに(グループ16)",
+     "reward": "20:105010200:1",
+     "price": 3000000,
+     "limit": null,
+     "assumed": [
+      "reward"
+     ]
+    },
+    {
+     "name": "オートバーサク",
+     "reward": "22:504237549:1",
+     "price": 10000,
+     "limit": null
+    }
+   ]
+  },
+  {
+   "key": "star_quartz",
+   "name_ja": "スタークォーツ交換所",
+   "name_ko": "스타쿼츠 교환소",
+   "category": 4,
+   "currency": "20:106200100",
+   "reset_months": 0,
+   "page_updated": "2024-01-11",
+   "sources": [
+    "https://altema.jp/ffbe/debuchokobo-1860"
+   ],
+   "location": "召喚画面 > 交換所タブ (altema). Placed in スペシャルショップ (category 4) in this build",
+   "products": [
+    {
+     "name": "ルミナ",
+     "reward": "10:258000305:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ストラゴス",
+     "reward": "10:206000905:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "セナイダ",
+     "reward": "10:100028205:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "アリエ",
+     "reward": "10:100024605:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ミンウ",
+     "reward": "10:202002205:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "アルヘナ",
+     "reward": "10:100026205:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "禁術研究書",
+     "reward": "20:292000600:1",
+     "price": 50,
+     "limit": 5,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ダンディな獣人ペツォッタ",
+     "reward": "10:100031405:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "レノ(FF7リメイク)",
+     "reward": "10:207001305:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "プルート隊ジタン",
+     "reward": "10:209002305:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "蒼穹の麗人フラン",
+     "reward": "10:212001705:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "不撓の戦士マキナ",
+     "reward": "10:254002105:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "キスティス",
+     "reward": "10:208000305:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ライトニング(FFXIII-2)",
+     "reward": "10:250000205:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "カダージュ",
+     "reward": "10:207001805:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ジャン=ピニヨン",
+     "reward": "10:100026605:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "トロピカルニコル",
+     "reward": "10:100026705:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "キマリ",
+     "reward": "10:210000505:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "クイナ",
+     "reward": "10:209001705:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "白魔道士ローザ",
+     "reward": "10:204002405:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ゲンティアナ",
+     "reward": "10:215002605:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "まおうザンデ",
+     "reward": "10:203001805:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "輪廻の騎士ガーランド",
+     "reward": "10:201000505:1",
+     "price": 100,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ウキヨ",
+     "reward": "10:100016605:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "彷徨の騎士レイン",
+     "reward": "10:100015005:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ケルスス",
+     "reward": "10:100009405:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "夏空のルルカ",
+     "reward": "10:100026804:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit",
+      "price"
+     ]
+    },
+    {
+     "name": "スカルティオ",
+     "reward": "10:100025104:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "レイン&チョコボ",
+     "reward": "10:100021304:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "エミリア",
+     "reward": "10:100012104:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "アシュテローゼ",
+     "reward": "10:100009304:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ニャルル",
+     "reward": "10:100009504:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "クポルカン",
+     "reward": "10:100009204:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "サンディ",
+     "reward": "10:100009604:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "グリンフィルド",
+     "reward": "10:100009704:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "モーグリ",
+     "reward": "10:100008804:1",
+     "price": 50,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "感謝祭モーグリ",
+     "reward": "10:100028003:1",
+     "price": 25,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "アニバーサリーモーグリ",
+     "reward": "10:100029003:1",
+     "price": 25,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "波乗りスカーハ",
+     "reward": "10:100026903:1",
+     "price": 25,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "カロライン",
+     "reward": "10:100026103:1",
+     "price": 25,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ティモルス",
+     "reward": "10:100025603:1",
+     "price": 25,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "ヴィンケル",
+     "reward": "10:100023903:1",
+     "price": 25,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "シスタ",
+     "reward": "10:100025203:1",
+     "price": 25,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    },
+    {
+     "name": "魔導兵器ティナ",
+     "reward": "10:206000113:1",
+     "price": 3000,
+     "limit": 1,
+     "assumed": [
+      "limit"
+     ]
+    }
+   ]
+  }
+ ]
+}

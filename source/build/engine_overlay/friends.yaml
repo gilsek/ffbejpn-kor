@@ -1,0 +1,247 @@
+# friends.yaml - WHO YOUR COMPANION CAN BE.
+# JP Korean build (2026-11-09, user request): FF7 + FF10 main cast, base forms, max level, no esper/gear.
+# Replaces the Global sample (Umaro drew a broken sprite on the JP client). build/engine_overlay/friends.yaml
+#
+# The client calls the party's 6th slot a "Companion"; its wire vocabulary calls the list
+# Reinforcement. This file is read fresh on EVERY server request, so: edit it, save it, and the next
+# time a screen asks for the list (enter a battle, open the support screen) it is there. No restart,
+# no relaunch. A malformed entry fails loudly by name, and a missing file simply means no friends.
+# NOTE: the client caches the list for its whole session, so a change becomes visible on the next
+# GAME RESTART, not merely the next screen.
+#
+# ADD AS MANY FRIENDS AS YOU LIKE: copy the block at the bottom. Each friend is independent.
+#
+# FIELDS
+#   display_name    the name shown for the friend. Free text; the only name you choose.
+#   friend_id       any number, unique in this file. The friend's account id (9xxxxxxxx).
+#   rank            the friend's Rank as displayed (defaults to 1). Values inside F_TEAM_LV_MST's
+#                   350-row range are legal; 200 and 150 are in use below.
+#   emblem_id       the badge beside the name (an F_EMBLEM_MST id; 0 = none).
+#   unit:
+#     master_id     a SHIPPED unit id (F_UNIT_MST). Name, art and stats follow from it - the stats are
+#                   DERIVED at serve time, so there are no numbers here to keep in sync.
+#     level         the level the friend lends it at (>= 1).
+#     lb_level      limit-burst level (0 = none). lb_exp likewise.
+#     esper         OPTIONAL esper id to lend. Worked out 2026-10-15 from the class's own handler
+#                   (0x1975344): the wire value is a comma CSV of NINE ints - id,rarity,lv,hp,mp,atk,
+#                   def,int,mnd - read with NO size check, so it must be exactly that shape. The six
+#                   stats are derived from F_BEAST_STATUS_MST at the level asked for, never typed in.
+#                   esper_rarity (default 3) and esper_level (default 60) override the envelope.
+#                   NOTE: for the esper to draw, do not use a rarity/level the tables lack.
+#     vision_card   OPTIONAL, and NOT WORKING YET - the blocker is a missing reply, not a value:
+#                   the card's display path resolves through ReinforcementVisionCardInfoList, which
+#                   is populated by a DIFFERENT reply class (ReinforcementVisionCardInfoResponse,
+#                   tags 2MKHk9cg / 9iW4xAFL) that this server does not serve. Also, the string token
+#                   (nQ1iAGf3) keeps only the text after its first "-" ("0-0" = none), so a bare id
+#                   stores empty. Leave it out until that reply exists.
+#     abilities     optional; up to 4 ability ids; omitted or 0 = empty slot.
+#     equipment     optional; up to 6 item ids. The wire group is "slot-itemId" pairs joined by "@"
+#                   (party slots would join with "|"). With all-zero slots nothing is drawn, so a
+#                   companion shows gear only once real item ids are listed here.
+#
+# PICKING A UNIT ID. A unit's MAXIMUM level depends on its FORM, so an id that tops out at 80 lends a
+# weak unit whatever level you write. These two are verified strong at the levels used below:
+#   206003107  Yeti of Narshe Umaro   7200 HP at L120
+#   344000417  Beast King Crocodine   7000 HP at L120
+
+friends:
+  - display_name: "클라우드"
+    friend_id: 900000001
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207000107      # FF7 クラウド / Cloud (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "티파"
+    friend_id: 900000002
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207000307      # FF7 ティファ / Tifa (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "에어리스"
+    friend_id: 900000003
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207000407      # FF7 エアリス / Aerith (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "바레트"
+    friend_id: 900000004
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207000206      # FF7 バレット / Barret (6*)
+      level: 100
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "레드 XIII"
+    friend_id: 900000005
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207000507      # FF7 レッドXIII / Red XIII (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "유피"
+    friend_id: 900000006
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207000607      # FF7 ユフィ / Yuffie (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "케트 시"
+    friend_id: 900000007
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207000705      # FF7 ケット・シー / Cait Sith (5*)
+      level: 80
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "빈센트"
+    friend_id: 900000008
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207000807      # FF7 ヴィンセント / Vincent (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "세피로스"
+    friend_id: 900000009
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207001007      # FF7 セフィロス / Sephiroth (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "잭스"
+    friend_id: 900000010
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 207001107      # FF7 ザックス / Zack (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "티다"
+    friend_id: 900000011
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210000107      # FF10 ティーダ / Tidus (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "유우나"
+    friend_id: 900000012
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210000207      # FF10 ユウナ / Yuna (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "와카"
+    friend_id: 900000013
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210000307      # FF10 ワッカ / Wakka (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "루루"
+    friend_id: 900000014
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210000407      # FF10 ルールー / Lulu (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "키마리"
+    friend_id: 900000015
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210000507      # FF10 キマリ / Kimahri (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "아론"
+    friend_id: 900000016
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210000607      # FF10 アーロン / Auron (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "류크"
+    friend_id: 900000017
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210000706      # FF10 リュック / Rikku (6*)
+      level: 100
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "시모어"
+    friend_id: 900000018
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210000807      # FF10 シーモア / Seymour (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "젝트"
+    friend_id: 900000019
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210001007      # FF10 ジェクト / Jecht (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+
+  - display_name: "브라스카"
+    friend_id: 900000020
+    rank: 150
+    emblem_id: 0
+    unit:
+      master_id: 210001107      # FF10 大召喚士ブラスカ / High Summoner Braska (7*)
+      level: 120
+      lb_level: 0
+      lb_exp: 0
+

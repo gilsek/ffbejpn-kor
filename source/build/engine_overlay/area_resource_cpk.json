@@ -1,0 +1,1340 @@
+{
+"areas": {
+"1000": {
+"cpks": [
+"area_bt1.cpk"
+],
+"map": "map9850_1.jpg",
+"name": "英雄の塔NORMAL"
+},
+"1001": {
+"cpks": [
+"area_bt1.cpk"
+],
+"map": "map9850_2.jpg",
+"name": "英雄の塔HARD"
+},
+"1002": {
+"cpks": [
+"area_bt1.cpk"
+],
+"map": "map9850_1.jpg",
+"name": "英雄の塔NORMAL"
+},
+"1003": {
+"cpks": [
+"area_bt1.cpk"
+],
+"map": "map9850_2.jpg",
+"name": "英雄の塔HARD"
+},
+"1004": {
+"cpks": [
+"area_bt1.cpk"
+],
+"map": "map9850_1.jpg",
+"name": "英雄の塔NORMAL"
+},
+"1005": {
+"cpks": [
+"area_bt1.cpk"
+],
+"map": "map9850_2.jpg",
+"name": "英雄の塔HARD"
+},
+"1006": {
+"cpks": [
+"area_bt1.cpk"
+],
+"map": "map9850_5.jpg",
+"name": "門松の塔NORMAL"
+},
+"1007": {
+"cpks": [
+"area_bt1.cpk"
+],
+"map": "map9850_5.jpg",
+"name": "門松の塔HARD"
+},
+"1599": {
+"cpks": [
+"area37_32IGc6S0.cpk"
+],
+"map": "map99_1.jpg",
+"name": "水中楼閣"
+},
+"2000": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2001": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade2_K4shv2U7.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2002": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade2_K4shv2U7.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2003": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade2_K4shv2U7.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2004": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade2_K4shv2U7.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2005": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade2_K4shv2U7.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2006": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade2_K4shv2U7.cpk",
+"area_parade3_K4shv2U7.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2007": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade2_K4shv2U7.cpk",
+"area_parade3_K4shv2U7.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2008": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade2_K4shv2U7.cpk",
+"area_parade3_K4shv2U7.cpk"
+],
+"map": "map962_1.jpg",
+"name": "ダークビジョンズアビス"
+},
+"2201": {
+"cpks": [
+"area_rtg_4rMuTPOI.cpk"
+],
+"map": "map1.jpg",
+"name": "ROAD TO GLORY"
+},
+"2202": {
+"cpks": [
+"area_rtg_4rMuTPOI.cpk"
+],
+"map": "map1.jpg",
+"name": "ROAD TO GLORY"
+},
+"2203": {
+"cpks": [
+"area_rtg_4rMuTPOI.cpk"
+],
+"map": "map1.jpg",
+"name": "ROAD TO GLORY"
+},
+"2204": {
+"cpks": [
+"area_rtg_4rMuTPOI.cpk"
+],
+"map": "map1.jpg",
+"name": "ROAD TO GLORY"
+},
+"2205": {
+"cpks": [
+"area_rtg_4rMuTPOI.cpk"
+],
+"map": "map1.jpg",
+"name": "ROAD TO GLORY"
+},
+"2206": {
+"cpks": [
+"area_rtg_4rMuTPOI.cpk"
+],
+"map": "map1.jpg",
+"name": "ROAD TO GLORY"
+},
+"2500": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2501": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2502": {
+"cpks": [
+"area_parade2_K4shv2U7.cpk"
+],
+"map": "map2502_1.jpg",
+"name": "9周年記念ダークビジョンズ"
+},
+"2503": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2504": {
+"cpks": [
+"area_vw4_Ea7e9PHL.cpk"
+],
+"map": "map2504_1.jpg",
+"name": "星を巡る者たちの死闘"
+},
+"2505": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2506": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2507": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2508": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2509": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2510": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2511": {
+"cpks": [
+"area_vw4_Ea7e9PHL.cpk"
+],
+"map": "map2511_1.jpg",
+"name": "蘇りしパラデイアの闇"
+},
+"2512": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"2513": {
+"cpks": [
+"area_vw4_Ea7e9PHL.cpk"
+],
+"map": "map2513_1.jpg",
+"name": "滅びを望みし賢人たち"
+},
+"2514": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade3_K4shv2U7.cpk"
+],
+"map": "map920_2.jpg",
+"name": "混沌の終焉"
+},
+"2515": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk",
+"area_parade3_K4shv2U7.cpk"
+],
+"map": "map920_2.jpg",
+"name": "混沌の終宴"
+},
+"3008": {
+"cpks": [
+"area_ex34_2Jc8bMjD.cpk"
+],
+"map": "map3008_1.jpg,map3008_2.jpg",
+"name": "アルドール警察２４時"
+},
+"3020": {
+"cpks": [
+"area_ex35_wcdqf85N.cpk"
+],
+"map": "map3020_1.jpg,map3020_2.jpg",
+"name": "潮騒デイドリーム"
+},
+"3040": {
+"cpks": [
+"area_ex37_YM3nUm9j.cpk"
+],
+"map": "map3040_1.jpg,map3040_2.jpg",
+"name": "混沌の起源-DARK VISIONS-"
+},
+"3063": {
+"cpks": [
+"area_ex38_zf2pV1re.cpk"
+],
+"map": "map3063_1.jpg,map3063_2.jpg",
+"name": "FUNDAMENTAL FORCES"
+},
+"3071": {
+"cpks": [
+"area_ex39_FI29ShaK.cpk"
+],
+"map": "map3071_1.jpg,map3071_2.jpg",
+"name": "盾の少女と夢舞台"
+},
+"3082": {
+"cpks": [
+"area_ex40_WAxp43mV.cpk"
+],
+"map": "map3082_1.jpg,map3082_2.jpg",
+"name": "未来へつなぐバトン"
+},
+"3098": {
+"cpks": [
+"area_ex41_1b3hDMp4.cpk"
+],
+"map": "map3098_1.jpg,map3098_2.jpg",
+"name": "せかい＝がようし"
+},
+"3112": {
+"cpks": [
+"area_ex42_8PDq4GEb.cpk"
+],
+"map": "map3112_1.jpg,map3112_2.jpg",
+"name": "鏡合わせのプリンセス"
+},
+"3135": {
+"cpks": [
+"area_ex43_GwpU58bc.cpk"
+],
+"map": "map3135_1.jpg,map3135_2.jpg",
+"name": "心の中の伴奏者"
+},
+"3154": {
+"cpks": [
+"area_ex44_0u2Nt9HX.cpk"
+],
+"map": "map3154_1.jpg,map3154_2.jpg",
+"name": "哀情のプレリュード"
+},
+"3163": {
+"cpks": [
+"area_ex45_tIU43mPy.cpk"
+],
+"map": "map3163_1.jpg,map3163_2.jpg",
+"name": "裏切りの禁呪"
+},
+"3182": {
+"cpks": [
+"area_ex46_u9X4Ubk2.cpk"
+],
+"map": "map3182_1.jpg,map3182_2.jpg",
+"name": "夜のしじまに君を思う"
+},
+"3199": {
+"cpks": [
+"area_ex47_pU3q76ow.cpk"
+],
+"map": "map3199_1.jpg,map3199_2.jpg",
+"name": "騎士たちの新時代"
+},
+"3212": {
+"cpks": [
+"area_ex48_5sWV6afJ.cpk"
+],
+"map": "map3212_1.jpg,map3212_2.jpg",
+"name": "雨後の空"
+},
+"3219": {
+"cpks": [
+"area_ex49_4N2E6RUn.cpk"
+],
+"map": "map3219_1.jpg,map3219_2.jpg",
+"name": "幻影たちの祝祭"
+},
+"3233": {
+"cpks": [
+"area_ex50_EH6yca3p.cpk"
+],
+"map": "map3233_1.jpg,map3233_2.jpg",
+"name": "フレンド・ライク・ユー"
+},
+"3244": {
+"cpks": [
+"area_ex51_5kfzK6jo.cpk"
+],
+"map": "map3244_1.jpg,map3244_2.jpg",
+"name": "英雄の帰郷"
+},
+"5000": {
+"cpks": [
+"area_ex52_wPJIf81c.cpk"
+],
+"map": "map5000_1.jpg,map5000_2.jpg",
+"name": "FUNDAMENTAL FORCES: シノビ・プライド"
+},
+"5010": {
+"cpks": [
+"area_ex53_bHDx63vQ.cpk"
+],
+"map": "map5010_1.jpg,map5010_2.jpg",
+"name": "掲げた信念を灯火に"
+},
+"5020": {
+"cpks": [
+"area_ex54_itLzC14Z.cpk"
+],
+"map": "map5020_1.jpg,map5020_2.jpg",
+"name": "夜の帳に鬼が嗤う"
+},
+"5030": {
+"cpks": [
+"area_ex55_7w92cRrQ.cpk"
+],
+"map": "map5030_1.jpg,map5030_2.jpg",
+"name": "その名は海王"
+},
+"5040": {
+"cpks": [
+"area_ex56_y42ZHdov.cpk"
+],
+"map": "map5040_1.jpg,map5040_2.jpg",
+"name": "鳴り止まぬ幼雷"
+},
+"5050": {
+"cpks": [
+"area_ex57_2iTx7pLI.cpk"
+],
+"map": "map5050_1.jpg,map5050_2.jpg",
+"name": "絶島のトレジャーハンター"
+},
+"5060": {
+"cpks": [
+"area_ex58_G4Mh8oAP.cpk"
+],
+"map": "map5060_1.jpg,map5060_2.jpg",
+"name": "パラデイアに降る雪"
+},
+"5090": {
+"cpks": [
+"area_ex59_qtj9HZ6Y.cpk"
+],
+"map": "map5090_1.jpg,map5090_2.jpg",
+"name": "FUNDAMENTAL FORCES: ビカム・ア・ヒーロー"
+},
+"5100": {
+"cpks": [
+"area_ex24_dVK2ZD0g.cpk"
+],
+"map": "map845_1.jpg,map845_2.jpg",
+"name": "或る人形の記録"
+},
+"5110": {
+"cpks": [
+"area_ex60_6QMN4T1Y.cpk"
+],
+"map": "map5110_1.jpg,map5110_2.jpg",
+"name": "破壊者たちの旅路"
+},
+"5120": {
+"cpks": [
+"area_ex61_D8SrWE2w.cpk"
+],
+"map": "map5120_1.jpg,map5120_2.jpg",
+"name": "呼び起こすは魂"
+},
+"5130": {
+"cpks": [
+"area_ex62_wnC3M4N1.cpk"
+],
+"map": "map5130_1.jpg,map5130_2.jpg",
+"name": "海人の王国と水底の支配者"
+},
+"5140": {
+"cpks": [
+"area_ex62_wnC3M4N1.cpk"
+],
+"map": "map5140_1.jpg,map5140_2.jpg",
+"name": "吹き起こる新風"
+},
+"5150": {
+"cpks": [
+"area_ex62_wnC3M4N1.cpk"
+],
+"map": "map5150_1.jpg,map5150_2.jpg",
+"name": "The Awakening of the Darkness〜魔将の系譜〜"
+},
+"5155": {
+"cpks": [
+"area_se_2304_341K6sPy.cpk"
+],
+"map": "map725_1.jpg,map725_2.jpg",
+"name": "集められし者たち"
+},
+"5160": {
+"cpks": [
+"area_ex37_YM3nUm9j.cpk"
+],
+"map": "map3040_1.jpg,map3040_2.jpg",
+"name": "混沌の起源-DARK VISIONS-"
+},
+"5170": {
+"cpks": [
+"area_ex22_0cf2MjVW.cpk"
+],
+"map": "map833_1.jpg,map833_3.jpg",
+"name": "皇都仇討ち道中"
+},
+"5180": {
+"cpks": [
+"area_ex26_31vipE0e.cpk"
+],
+"map": "map855_1.jpg,map855_3.jpg",
+"name": "残照"
+},
+"5190": {
+"cpks": [
+"area_ex62_wnC3M4N1.cpk"
+],
+"map": "map900007_1.jpg",
+"name": "黒き獣と新たなる闘星"
+},
+"5200": {
+"cpks": [
+"area_ex29_12srI5HT.cpk"
+],
+"map": "map872_1.jpg,map872_3.jpg",
+"name": "白百合のブーケ"
+},
+"5210": {
+"cpks": [
+"area_ex13_6UqG1jPc.cpk"
+],
+"map": "map785_1.jpg,map785_2_1.jpg",
+"name": "グランシェルト武勲詩"
+},
+"5220": {
+"cpks": [
+"area_se_2408_4538hDse.cpk"
+],
+"map": "map729_1.jpg,map729_2.jpg",
+"name": "時を超えた約束"
+},
+"5230": {
+"cpks": [
+"area_ex38_zf2pV1re.cpk"
+],
+"map": "map3063_1.jpg,map3063_2.jpg",
+"name": "FUNDAMENTAL FORCES"
+},
+"5240": {
+"cpks": [
+"area_ex5_wX8R2tCc.cpk"
+],
+"map": "map746_1.jpg,map746_2.jpg",
+"name": "秩序の守護者"
+},
+"5260": {
+"cpks": [
+"area_ex8_o47UHKsL.cpk"
+],
+"map": "map760_1.jpg,map760_2.jpg",
+"name": "白き賢者と魔法の杖"
+},
+"5280": {
+"cpks": [
+"area_ex25_bRQdXy62.cpk"
+],
+"map": "map849_1.jpg,map849_3.jpg",
+"name": "結束の星"
+},
+"5290": {
+"cpks": [
+"area_ex3_c39iLSMF.cpk"
+],
+"map": "map733_1.jpg,map733_2.jpg",
+"name": "復讐の時、来たる"
+},
+"725": {
+"cpks": [
+"area_ex_mG73tpLd.cpk"
+],
+"map": "map725_1.jpg,map725_2.jpg",
+"name": "集められし者たち"
+},
+"729": {
+"cpks": [
+"area_ex2_4pIfNrj3.cpk"
+],
+"map": "map729_1.jpg,map729_2.jpg",
+"name": "時を超えた約束"
+},
+"733": {
+"cpks": [
+"area_ex3_c39iLSMF.cpk"
+],
+"map": "map733_1.jpg,map733_2.jpg",
+"name": "復讐の時、来たる"
+},
+"737": {
+"cpks": [
+"area_ex4_Xks2o1UR.cpk"
+],
+"map": "map737_1.jpg,map737_2.jpg",
+"name": "戦士たちの追憶"
+},
+"746": {
+"cpks": [
+"area_ex5_wX8R2tCc.cpk"
+],
+"map": "map746_1.jpg,map746_2.jpg",
+"name": "秩序の守護者"
+},
+"750": {
+"cpks": [
+"area_ex6_PBuSc1w4.cpk"
+],
+"map": "map750_1.jpg,map750_2.jpg",
+"name": "竜騎士の宿命"
+},
+"755": {
+"cpks": [
+"area_ex7_jihR7PB2.cpk"
+],
+"map": "map755_1.jpg,map755_2.jpg",
+"name": "もののふの生き様"
+},
+"760": {
+"cpks": [
+"area_ex8_o47UHKsL.cpk"
+],
+"map": "map760_1.jpg,map760_2.jpg",
+"name": "白き賢者と魔法の杖"
+},
+"765": {
+"cpks": [
+"area_ex9_eMN09y7C.cpk"
+],
+"map": "map765_1.jpg,map765_2.jpg",
+"name": "グンガンの至宝"
+},
+"770": {
+"cpks": [
+"area_ex10_fIuT6wD8.cpk"
+],
+"map": "map770_1.jpg,map770_2.jpg",
+"name": "陰謀の戴冠式"
+},
+"775": {
+"cpks": [
+"area_ex11_8nmWLz35.cpk"
+],
+"map": "map775_1.jpg,map775_2.jpg",
+"name": "幻の設計書"
+},
+"780": {
+"cpks": [
+"area_ex12_fi1B0pPF.cpk"
+],
+"map": "map780_1.jpg,map780_2_2.jpg",
+"name": "交差する運命"
+},
+"785": {
+"cpks": [
+"area_ex13_6UqG1jPc.cpk"
+],
+"map": "map785_1.jpg,map785_2_2.jpg",
+"name": "グランシェルト武勲詩"
+},
+"791": {
+"cpks": [
+"area_ex14_yz3PR2KS.cpk"
+],
+"map": "map791_1.jpg,map791_2.jpg",
+"name": "ふたりの領域"
+},
+"796": {
+"cpks": [
+"area_ex15_Kgd7Ni5y.cpk"
+],
+"map": "map796_1.jpg,map796_2.jpg",
+"name": "非情は七色"
+},
+"801": {
+"cpks": [
+"area_ex16_BS9M7F2A.cpk"
+],
+"map": "map801_1.jpg,map801_2.jpg",
+"name": "軋んだ光"
+},
+"806": {
+"cpks": [
+"area_ex17_xg4eMf9a.cpk"
+],
+"map": "map806_1.jpg,map806_2.jpg",
+"name": "不思議の森の獅子"
+},
+"812": {
+"cpks": [
+"area_ex18_ySs8f2FY.cpk"
+],
+"map": "map812_1.jpg,map812_2.jpg",
+"name": "華麗なるジークハルト"
+},
+"817": {
+"cpks": [
+"area_ex19_e5uT7pw0.cpk"
+],
+"map": "map817_1.jpg,map817_2.jpg",
+"name": "水鏡の巫女"
+},
+"823": {
+"cpks": [
+"area_ex20_AS6F4VwM.cpk"
+],
+"map": "map823_1.jpg,map823_2.jpg",
+"name": "炎の鍛冶職人"
+},
+"828": {
+"cpks": [
+"area_ex21_0aBg8JPd.cpk"
+],
+"map": "map828_1.jpg,map828_2.jpg",
+"name": "天穹翔ける夢"
+},
+"833": {
+"cpks": [
+"area_ex22_0cf2MjVW.cpk"
+],
+"map": "map833_1.jpg,map833_2.jpg",
+"name": "皇都仇討ち道中"
+},
+"838": {
+"cpks": [
+"area_ex23_CQ3rD7MA.cpk"
+],
+"map": "map838_1.jpg,map838_2.jpg",
+"name": "種火が灯った日"
+},
+"845": {
+"cpks": [
+"area_ex24_dVK2ZD0g.cpk"
+],
+"map": "map845_1.jpg,map845_2.jpg",
+"name": "或る人形の記録"
+},
+"849": {
+"cpks": [
+"area_ex25_bRQdXy62.cpk"
+],
+"map": "map849_1.jpg,map849_2.jpg",
+"name": "結束の星"
+},
+"855": {
+"cpks": [
+"area_ex26_31vipE0e.cpk"
+],
+"map": "map855_1.jpg,map855_2.jpg",
+"name": "残照"
+},
+"861": {
+"cpks": [
+"area_ex27_9c36G8eq.cpk"
+],
+"map": "map861_1.jpg,map861_2.jpg",
+"name": "ファン・ファン・ファイサリス"
+},
+"866": {
+"cpks": [
+"area_ex29_12srI5HT.cpk",
+"area_se_2209_93LBiIga.cpk"
+],
+"map": "map796_1.jpg,map796_2.jpg",
+"name": "非情は七色"
+},
+"872": {
+"cpks": [
+"area_ex29_12srI5HT.cpk"
+],
+"map": "map872_1.jpg,map872_2.jpg",
+"name": "白百合のブーケ"
+},
+"878": {
+"cpks": [
+"area_ex30_iBUN17ds.cpk"
+],
+"map": "map878_1.jpg,map878_2.jpg",
+"name": "暁やみを走れ"
+},
+"883": {
+"cpks": [
+"area_ex31_1QcPZ6D2.cpk"
+],
+"map": "map883_1.jpg,map883_2.jpg",
+"name": "いのりごと"
+},
+"888": {
+"cpks": [
+"area_ex32_ZI2r6pdN.cpk"
+],
+"map": "map888_1.jpg,map888_2.jpg",
+"name": "エーデル・ザ・モール"
+},
+"893": {
+"cpks": [
+"area_ex33_za0C5IF1.cpk"
+],
+"map": "map893_1.jpg,map893_2.jpg",
+"name": "失われた鏡像"
+},
+"910": {
+"cpks": [
+"area_tower_f5vWe8pM.cpk"
+],
+"map": "map910_1.jpg",
+"name": "聖霊殿エルティラ"
+},
+"920": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_1.jpg",
+"name": "ダークビジョンズ"
+},
+"921": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_1.jpg",
+"name": "ダークビジョンズ"
+},
+"922": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_1.jpg",
+"name": "ダークビジョンズ"
+},
+"923": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_1.jpg",
+"name": "ダークビジョンズ"
+},
+"924": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_1.jpg",
+"name": "ダークビジョンズ"
+},
+"925": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"926": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_3.jpg",
+"name": "ダークビジョンズ"
+},
+"927": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_3.jpg",
+"name": "ダークビジョンズ"
+},
+"928": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"929": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"934": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"935": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"936": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"937": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map937_1.jpg",
+"name": "スコアアタック・チャレンジ!!"
+},
+"938": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"939": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"940": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map940_1.jpg",
+"name": "スコアアタック・クリスマス!!"
+},
+"941": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"942": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"943": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map943_1.jpg",
+"name": "神獣戦"
+},
+"944": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_3.jpg",
+"name": "ダークビジョンズ"
+},
+"945": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map945_1.jpg",
+"name": "ダークビジョンズ"
+},
+"946": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"947": {
+"cpks": [
+"area_vw_aDbh38cu.cpk"
+],
+"map": "map947_1.jpg",
+"name": "儚き珠魅の運命"
+},
+"949": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"951": {
+"cpks": [
+"area_vw_aDbh38cu.cpk"
+],
+"map": "map951_1.jpg",
+"name": "異質なる歯車"
+},
+"953": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"954": {
+"cpks": [
+"area_vw_aDbh38cu.cpk"
+],
+"map": "map954_1.jpg",
+"name": "ヴィセクトラム頂上決戦"
+},
+"955": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"956": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"957": {
+"cpks": [
+"area_vw_aDbh38cu.cpk"
+],
+"map": "map957_1.jpg",
+"name": "ドラゴンクエスト ダイの大冒険"
+},
+"959": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"960": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"961": {
+"cpks": [
+"area_vw_aDbh38cu.cpk"
+],
+"map": "map961_1.jpg,map961_2.jpg",
+"name": "大召喚士の足跡"
+},
+"962": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"964": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"965": {
+"cpks": [
+"area_vw2_c19eK8Q5.cpk"
+],
+"map": "map965_1.jpg",
+"name": "魔晄都市で闘う者達"
+},
+"966": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"967": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"968": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"969": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"970": {
+"cpks": [
+"area_vw2_c19eK8Q5.cpk"
+],
+"map": "map970_1.jpg",
+"name": "SeeDが背負う宿命"
+},
+"971": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"972": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"973": {
+"cpks": [
+"area_vw2_c19eK8Q5.cpk"
+],
+"map": "map973_1.jpg",
+"name": "楽園からの追放"
+},
+"974": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"975": {
+"cpks": [
+"area_vw2_c19eK8Q5.cpk"
+],
+"map": "map975_1.jpg",
+"name": "ドラゴンクエスト ダイの大冒険"
+},
+"976": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"977": {
+"cpks": [
+"area_vw2_c19eK8Q5.cpk"
+],
+"map": "map977_1.jpg",
+"name": "王子たちの旅路"
+},
+"978": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"979": {
+"cpks": [
+"area_vw3_aCEW29V8.cpk"
+],
+"map": "map979_1.jpg",
+"name": "極まりし強敵たち"
+},
+"980": {
+"cpks": [
+"area_parade2_K4shv2U7.cpk"
+],
+"map": "map980_1.jpg",
+"name": "ダークビジョンズ"
+},
+"981": {
+"cpks": [
+"area_vw3_aCEW29V8.cpk"
+],
+"map": "map981_1.jpg",
+"name": "『神』の解放"
+},
+"982": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"983": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"984": {
+"cpks": [
+"area_vw3_aCEW29V8.cpk"
+],
+"map": "map984_1.jpg",
+"name": "ロトの紋章の導き"
+},
+"985": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"986": {
+"cpks": [
+"area_vw3_aCEW29V8.cpk"
+],
+"map": "map986_1.jpg",
+"name": "クライヴ・ロズフィールドという男"
+},
+"987": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"988": {
+"cpks": [
+"area_parade_ShR0eA8P.cpk"
+],
+"map": "map920_2.jpg",
+"name": "ダークビジョンズ"
+},
+"995": {
+"cpks": [
+"area_vw3_aCEW29V8.cpk"
+],
+"map": "map995_1.jpg",
+"name": "王都決戦"
+}
+},
+"resources": {
+"108503": "area_ex3_c39iLSMF.cpk",
+"108504": "area_ex4_Xks2o1UR.cpk",
+"108505": "area_ex5_wX8R2tCc.cpk",
+"108506": "area_ex6_PBuSc1w4.cpk",
+"108507": "area_ex7_jihR7PB2.cpk",
+"108508": "area_ex8_o47UHKsL.cpk",
+"108509": "area_ex9_eMN09y7C.cpk",
+"108510": "area_ex10_fIuT6wD8.cpk",
+"108511": "area_ex11_8nmWLz35.cpk",
+"108512": "area_ex12_fi1B0pPF.cpk",
+"108513": "area_ex13_6UqG1jPc.cpk",
+"108514": "area_ex14_yz3PR2KS.cpk",
+"108515": "area_ex15_Kgd7Ni5y.cpk",
+"108516": "area_ex16_BS9M7F2A.cpk",
+"108517": "area_ex17_xg4eMf9a.cpk",
+"108518": "area_ex18_ySs8f2FY.cpk",
+"108519": "area_ex19_e5uT7pw0.cpk",
+"108520": "area_ex20_AS6F4VwM.cpk",
+"108521": "area_ex21_0aBg8JPd.cpk",
+"108522": "area_ex22_0cf2MjVW.cpk",
+"108523": "area_ex23_CQ3rD7MA.cpk",
+"108524": "area_ex24_dVK2ZD0g.cpk",
+"108525": "area_ex25_bRQdXy62.cpk",
+"108526": "area_ex26_31vipE0e.cpk",
+"108527": "area_ex27_9c36G8eq.cpk",
+"108529": "area_ex29_12srI5HT.cpk",
+"108530": "area_ex30_iBUN17ds.cpk",
+"108531": "area_ex31_1QcPZ6D2.cpk",
+"108532": "area_ex32_ZI2r6pdN.cpk",
+"108533": "area_ex33_za0C5IF1.cpk",
+"108534": "area_ex34_2Jc8bMjD.cpk",
+"108535": "area_ex35_wcdqf85N.cpk",
+"108537": "area_ex37_YM3nUm9j.cpk",
+"108538": "area_ex38_zf2pV1re.cpk",
+"108539": "area_ex39_FI29ShaK.cpk",
+"108540": "area_ex40_WAxp43mV.cpk",
+"108541": "area_ex41_1b3hDMp4.cpk",
+"108542": "area_ex42_8PDq4GEb.cpk",
+"108543": "area_ex43_GwpU58bc.cpk",
+"108544": "area_ex44_0u2Nt9HX.cpk",
+"108545": "area_ex45_tIU43mPy.cpk",
+"108546": "area_ex46_u9X4Ubk2.cpk",
+"108547": "area_ex47_pU3q76ow.cpk",
+"108548": "area_ex48_5sWV6afJ.cpk",
+"108549": "area_ex49_4N2E6RUn.cpk",
+"108550": "area_ex50_EH6yca3p.cpk",
+"108551": "area_ex51_5kfzK6jo.cpk",
+"108552": "area_ex52_wPJIf81c.cpk",
+"108553": "area_ex53_bHDx63vQ.cpk",
+"108554": "area_ex54_itLzC14Z.cpk",
+"108555": "area_ex55_7w92cRrQ.cpk",
+"108556": "area_ex56_y42ZHdov.cpk",
+"108557": "area_ex57_2iTx7pLI.cpk",
+"108558": "area_ex58_G4Mh8oAP.cpk",
+"108559": "area_ex59_qtj9HZ6Y.cpk",
+"108560": "area_ex60_6QMN4T1Y.cpk",
+"108561": "area_ex61_D8SrWE2w.cpk",
+"108562": "area_ex62_wnC3M4N1.cpk",
+"108598": "area_parade_ShR0eA8P.cpk",
+"108599": "area_tower_f5vWe8pM.cpk",
+"108600": "area_vw_aDbh38cu.cpk",
+"108602": "area_vw2_c19eK8Q5.cpk",
+"108603": "area_parade2_K4shv2U7.cpk",
+"108604": "area_vw3_aCEW29V8.cpk",
+"108605": "area_parade3_K4shv2U7.cpk",
+"108606": "area_vw4_Ea7e9PHL.cpk",
+"108701": "area_rtg_4rMuTPOI.cpk"
+}
+}

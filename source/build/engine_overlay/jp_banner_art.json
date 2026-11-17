@@ -1,0 +1,4393 @@
+{
+ "art": {
+  "spd_20161021_bn_list_ffbe.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 64378
+  },
+  "spd_20161021_bn_list_ffbe_02.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/cea289f4e9170503.png",
+   "size": 49415
+  },
+  "spd_20161021_bn_list_ffbe_03.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/048aba9c81d7ec20.png",
+   "size": 55197
+  },
+  "spd_20161022_bn_list_treasurehouse.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 69521
+  },
+  "spd_20170323_bn_list_treasurehouse.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b9fe4cb723315ad1.png",
+   "size": 80185
+  },
+  "spd_20170612_bn_list_12quest.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 62675
+  },
+  "spd_20171001_bn_list_chara_01.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/bf35a3159e4de58f.png",
+   "size": 61711
+  },
+  "spd_20171001_bn_list_chara_02.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_312.png",
+   "size": 63969
+  },
+  "spd_20171001_bn_list_chara_03.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/660823a601eef2d1.png",
+   "size": 60769
+  },
+  "spd_20171001_bn_list_chara_04.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/af4f603902a2dfcf.png",
+   "size": 63744
+  },
+  "spd_20171001_bn_list_chara_05.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_404.png",
+   "size": 64676
+  },
+  "spd_20171001_bn_list_chara_06.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/bd7010431221ec6f.png",
+   "size": 72498
+  },
+  "spd_20180219_bn_list_wp_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/7ca14aa37ec41bc5.png",
+   "size": 72413
+  },
+  "spd_20180219_bn_list_wp_last_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/113ebd8104931f18.png",
+   "size": 73576
+  },
+  "spd_20180330_bn_list_tizu.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 80230
+  },
+  "spd_20180330_bn_list_tizu_last.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/bebd9bf3b2cd9f58.png",
+   "size": 74796
+  },
+  "spd_20180410_bn_list_wp.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3037.png",
+   "size": 74038
+  },
+  "spd_20180410_bn_list_wp_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/053505bd4bebfcc0.png",
+   "size": 74146
+  },
+  "spd_20180928_bn_list_chara_07.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3255.png",
+   "size": 63663
+  },
+  "spd_20181120_bn_list_tower.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 78832
+  },
+  "spd_20181130_bn_list_wp_last_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3256.png",
+   "size": 74125
+  },
+  "spd_20181211_bn_list_BF_02.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3257.png",
+   "size": 74132
+  },
+  "spd_20181211_bn_list_BF_03.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c323484c4f66336c.png",
+   "size": 66819
+  },
+  "spd_20181211_bn_list_BF_06.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 76492
+  },
+  "spd_20181211_bn_list_BF_08.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/6eabb1465405b013.png",
+   "size": 74992
+  },
+  "spd_20181211_bn_list_BF_09.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/9aa85c6baa16eaac.png",
+   "size": 74253
+  },
+  "spd_20181211_bn_list_BF_10.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4650caa01666866e.png",
+   "size": 71242
+  },
+  "spd_20181211_bn_list_BF_12.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4cbdc9188817adc1.png",
+   "size": 66475
+  },
+  "spd_20181211_bn_list_BF_13.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5a2820352c9d809d.png",
+   "size": 74983
+  },
+  "spd_20181211_bn_list_BF_14.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4d4cd13c998c57a6.png",
+   "size": 70826
+  },
+  "spd_20181211_bn_list_BF_15.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/34bdb26ccf796b0b.png",
+   "size": 78452
+  },
+  "spd_20181211_bn_list_BF_16.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d1dfa924f9939a31.png",
+   "size": 74002
+  },
+  "spd_20181211_bn_list_BF_17.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/a24ab1819cb57cda.png",
+   "size": 70347
+  },
+  "spd_20181211_bn_list_BF_18.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/33efeb2a1a027a0d.png",
+   "size": 73845
+  },
+  "spd_20181211_bn_list_BF_19.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/74d90ca25b175166.png",
+   "size": 71736
+  },
+  "spd_20181211_bn_list_SBF_01.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/00cb38793917963f.png",
+   "size": 88244
+  },
+  "spd_20181211_bn_list_SBF_02.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8ef6379df065f3e8.png",
+   "size": 86963
+  },
+  "spd_20181211_bn_list_SBF_03.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/68213eb84aef9ac1.png",
+   "size": 83718
+  },
+  "spd_20181211_bn_list_SBF_04.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1995eef271be71f9.png",
+   "size": 87109
+  },
+  "spd_20181211_bn_list_SBF_05.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/2b818e02247f94ee.png",
+   "size": 85057
+  },
+  "spd_20181211_bn_list_SBF_06.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/7ef2585286b8142e.png",
+   "size": 78962
+  },
+  "spd_20181211_bn_list_SBF_07.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/9ac6493ab5a4cb45.png",
+   "size": 90647
+  },
+  "spd_20181211_bn_list_SBF_08.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/7e9044b757827d13.png",
+   "size": 89675
+  },
+  "spd_20181211_bn_list_SBF_09.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c14832bafec7b9ae.png",
+   "size": 88572
+  },
+  "spd_20181211_bn_list_SBF_11.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/571fee601c1f16cb.png",
+   "size": 85828
+  },
+  "spd_20181211_bn_list_SBF_12.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/85e2fb1c29cf8b23.png",
+   "size": 84650
+  },
+  "spd_20181211_bn_list_SBF_14.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1b09a1832e870262.png",
+   "size": 79897
+  },
+  "spd_20181211_bn_list_SBF_15.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1a43fce1c1453f17.png",
+   "size": 83881
+  },
+  "spd_20181227_bn_list_SBB_000.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 60987
+  },
+  "spd_20181227_bn_list_SBB_002.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8b34064e481911e3.png",
+   "size": 83543
+  },
+  "spd_20190121_bn_top_ERB.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 61625
+  },
+  "spd_20190311_bn_list_SBF_18.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f0b640063154ac9a.png",
+   "size": 83839
+  },
+  "spd_20190329_bn_list_SBB_005.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/66a496f9d232be03.png",
+   "size": 79955
+  },
+  "spd_20190329_bn_list_SS.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 71151
+  },
+  "spd_20190426_bn_list_exproom.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 56113
+  },
+  "spd_20190426_bn_list_treasurehouse.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 76285
+  },
+  "spd_20190628_bn_list_SBB_009.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b895a2ca5262a521.png",
+   "size": 82714
+  },
+  "spd_20190729_bn_list_SBB_010.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/6c8f792cb7e7ee8d.png",
+   "size": 83860
+  },
+  "spd_20190729_bn_list_SBB_011.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d936376c923e42fc.png",
+   "size": 85833
+  },
+  "spd_20190920_bn_list_darkvisions.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 160842
+  },
+  "spd_20191017_bn_list_ffbe_extra_06.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 55824
+  },
+  "spd_20191021_bn_list_chara_10.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/649bad0691dea18a.png",
+   "size": 60061
+  },
+  "spd_20191111_bn_list_BF_20.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/083b80a3be03670e.png",
+   "size": 69930
+  },
+  "spd_20191205_bn_list_treasurehouse.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 80215
+  },
+  "spd_20191220_bn_list_SBF_23.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f21010bdf6c1ba5a.png",
+   "size": 85950
+  },
+  "spd_20191227_bn_list_SBB_015.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/2e0201c853a72485.png",
+   "size": 76134
+  },
+  "spd_20200121_bn_list_BF_21.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e08a51674cfeef4a.png",
+   "size": 66593
+  },
+  "spd_20200410_bn_list_wp.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e359f66aa763a367.png",
+   "size": 74416
+  },
+  "spd_20200410_bn_list_wp_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/28405698efb42558.png",
+   "size": 72277
+  },
+  "spd_20200430_bn_list_FF7R_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 176648
+  },
+  "spd_20200430_bn_list_FF7R_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/2aed1c03e75ab13c.png",
+   "size": 198842
+  },
+  "spd_20200430_bn_list_FF7R_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 206978
+  },
+  "spd_20200430_bn_list_FF7R_02_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f8a8a865f45d3e6a.png",
+   "size": 221997
+  },
+  "spd_20200430_bn_list_FF7R_04.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 207326
+  },
+  "spd_20200430_bn_list_FF7R_04_2.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c314efefd2f2dd0e.png",
+   "size": 213580
+  },
+  "spd_20200430_bn_list_FF7R_04_2_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f66bb62ce55f4343.png",
+   "size": 227287
+  },
+  "spd_20200430_bn_list_FF7R_04_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/068b14953eea959d.png",
+   "size": 219857
+  },
+  "spd_20200430_bn_list_SBB_018.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/39bd15b44c4477e0.png",
+   "size": 245907
+  },
+  "spd_20200430_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 54068
+  },
+  "spd_20200511_bn_list_FF7_02_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e36b36210b738a6b.png",
+   "size": 72071
+  },
+  "spd_20200511_bn_list_FF7_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b26dfbf2245cb17e.png",
+   "size": 71407
+  },
+  "spd_20200511_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 250928
+  },
+  "spd_20200511_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4734a5cab9b68e8d.png",
+   "size": 259163
+  },
+  "spd_20200511_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 264614
+  },
+  "spd_20200511_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d5ae2b40c255901d.png",
+   "size": 274413
+  },
+  "spd_20200511_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 265612
+  },
+  "spd_20200511_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 241527
+  },
+  "spd_20200511_bn_list_bossrush_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 202787
+  },
+  "spd_20200511_bn_list_bossrush_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 239385
+  },
+  "spd_20200511_bn_list_bossrush_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 240039
+  },
+  "spd_20200511_bn_list_bossrush_03_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/de52662b4bcd1ba0.png",
+   "size": 242218
+  },
+  "spd_20200511_bn_list_ffbe_05_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f7da4f560f85ba20.png",
+   "size": 252705
+  },
+  "spd_20200511_bn_list_ffbe_06_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/830354eb10b5bf7d.png",
+   "size": 255727
+  },
+  "spd_20200511_bn_list_shortstory_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/6cffdb50a3d5e943.png",
+   "size": 217534
+  },
+  "spd_20200511_bn_list_shortstory_02_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ac2ca9e02b1613ef.png",
+   "size": 222058
+  },
+  "spd_20200521_bn_list_BF_23.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c8d34d974965859c.png",
+   "size": 68991
+  },
+  "spd_20200521_bn_list_FF7R_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 245292
+  },
+  "spd_20200521_bn_list_FF7R_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f020b55eb5719c06.png",
+   "size": 256489
+  },
+  "spd_20200521_bn_list_FF7R_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 203668
+  },
+  "spd_20200521_bn_list_FF7R_03_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5f5a42499ed9d141.png",
+   "size": 216384
+  },
+  "spd_20200521_bn_list_wp.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/25481464b9993764.png",
+   "size": 70704
+  },
+  "spd_20200521_bn_list_wp_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3d01eb4d04fdf39e.png",
+   "size": 69753
+  },
+  "spd_20200521_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 55629
+  },
+  "spd_20200531_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 225706
+  },
+  "spd_20200531_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/40956091d2bd114e.png",
+   "size": 239273
+  },
+  "spd_20200531_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 232826
+  },
+  "spd_20200531_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e1f6ab8abbf1f801.png",
+   "size": 243998
+  },
+  "spd_20200531_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 215734
+  },
+  "spd_20200531_bn_list_FFBE_03_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b1dc8d61781f976e.png",
+   "size": 226403
+  },
+  "spd_20200531_bn_list_bossrush_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 196736
+  },
+  "spd_20200531_bn_list_bossrush_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1d781795c8a4f96f.png",
+   "size": 200560
+  },
+  "spd_20200531_bn_list_bossrush_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 227153
+  },
+  "spd_20200531_bn_list_bossrush_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 226612
+  },
+  "spd_20200531_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 55522
+  },
+  "spd_20200611_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 247283
+  },
+  "spd_20200611_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 258686
+  },
+  "spd_20200611_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 258012
+  },
+  "spd_20200611_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 247071
+  },
+  "spd_20200611_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 56143
+  },
+  "spd_20200619_bn_list_FF12_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 71564
+  },
+  "spd_20200619_bn_list_FF12_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 71439
+  },
+  "spd_20200619_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 56122
+  },
+  "spd_20200630_bn_list_FFII_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 60112
+  },
+  "spd_20200630_bn_list_FFII_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/a3d931724f41570d.png",
+   "size": 60533
+  },
+  "spd_20200630_bn_list_FFII_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 73392
+  },
+  "spd_20200630_bn_list_FFII_02_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/51d23d670cfb5780.png",
+   "size": 71502
+  },
+  "spd_20200630_bn_list_FFII_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 61096
+  },
+  "spd_20200630_bn_list_bossrush_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 67240
+  },
+  "spd_20200630_bn_list_bossrush_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 72852
+  },
+  "spd_20200630_bn_list_bossrush_02_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/0d6158a9df06e196.png",
+   "size": 71705
+  },
+  "spd_20200630_bn_list_bossrush_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 71621
+  },
+  "spd_20200630_bn_list_bossrush_03_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/949eb9de7672ecc3.png",
+   "size": 70460
+  },
+  "spd_20200630_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 55833
+  },
+  "spd_20200708_bn_list_kiseki_05.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/76994f45ad0ff0c2.png",
+   "size": 69699
+  },
+  "spd_20200710_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 77453
+  },
+  "spd_20200710_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/a6f0d6d6033c9380.png",
+   "size": 76195
+  },
+  "spd_20200710_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 74061
+  },
+  "spd_20200710_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 75009
+  },
+  "spd_20200710_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 66033
+  },
+  "spd_20200710_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 55807
+  },
+  "spd_20200721_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 73620
+  },
+  "spd_20200721_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 72918
+  },
+  "spd_20200721_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 54517
+  },
+  "spd_20200729_bn_KH_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 59878
+  },
+  "spd_20200729_bn_list_KH_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 68016
+  },
+  "spd_20200729_bn_list_KH_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 72300
+  },
+  "spd_20200731_bn_list_SBF_30.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ff578ead430f86f0.png",
+   "size": 88615
+  },
+  "spd_20200811_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 66295
+  },
+  "spd_20200811_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 54835
+  },
+  "spd_20200821_bn_list_FF3_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 74429
+  },
+  "spd_20200821_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 62719
+  },
+  "spd_20200821_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 54240
+  },
+  "spd_20200831_bn_list_FF6_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 61853
+  },
+  "spd_20200831_bn_list_FF6_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 73165
+  },
+  "spd_20200831_bn_list_FF6_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 61823
+  },
+  "spd_20200831_bn_list_FF6_03_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/bb32b17d874532d6.png",
+   "size": 63670
+  },
+  "spd_20200831_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 54604
+  },
+  "spd_20200908_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 66598
+  },
+  "spd_20200908_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 66967
+  },
+  "spd_20200910_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 57173
+  },
+  "spd_20200918_bn_list_FFVI_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 74998
+  },
+  "spd_20200918_bn_list_FFVI_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/425d91d574a4cfb7.png",
+   "size": 72150
+  },
+  "spd_20200918_bn_list_FFVI_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 59128
+  },
+  "spd_20200918_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 53145
+  },
+  "spd_20200930_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 67865
+  },
+  "spd_20200930_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 70326
+  },
+  "spd_20200930_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 66592
+  },
+  "spd_20200930_bn_list_FFBE_03_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/608cb920e33b975b.png",
+   "size": 66893
+  },
+  "spd_20200930_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 56739
+  },
+  "spd_20201006_bn_list_scoreattack.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 74241
+  },
+  "spd_20201012_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 57251
+  },
+  "spd_20201014_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 80041
+  },
+  "spd_20201014_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b6240a629a6c69cd.png",
+   "size": 78462
+  },
+  "spd_20201014_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 74762
+  },
+  "spd_20201020_bn_list_BlueMagic.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 55051
+  },
+  "spd_20201020_bn_list_BlueMagic_02.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e491f6eca92e7349.png",
+   "size": 61302
+  },
+  "spd_20201020_bn_list_BlueMagic_06.png": {
+   "cpk": "spdungeon6.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/510206a4eea6e382.png",
+   "size": 57740
+  },
+  "spd_20201022_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 71947
+  },
+  "spd_20201022_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d44361f2562f037d.png",
+   "size": 68794
+  },
+  "spd_20201022_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 63647
+  },
+  "spd_20201022_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon2.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b5f93c9bbb6d7d21.png",
+   "size": 63581
+  },
+  "spd_20201030_bn_list_LRFF13_01.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 56691
+  },
+  "spd_20201030_bn_list_LRFF13_02.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 74325
+  },
+  "spd_20201030_bn_list_LRFF13_03.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 65381
+  },
+  "spd_20201030_bn_shingi.png": {
+   "cpk": "spdungeon2.cpk",
+   "size": 57032
+  },
+  "spd_20201106_bn_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 57989
+  },
+  "spd_20201111_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 80129
+  },
+  "spd_20201111_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68779
+  },
+  "spd_20201111_bn_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 53882
+  },
+  "spd_20201120_bn_list_BF_13.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/409885818728c713.png",
+   "size": 74790
+  },
+  "spd_20201120_bn_list_LRFF13_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67962
+  },
+  "spd_20201120_bn_list_LRFF13_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b7e915d16116d23c.png",
+   "size": 67034
+  },
+  "spd_20201120_bn_list_LRFF13_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64614
+  },
+  "spd_20201120_bn_list_LRFF13_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/25b1447eff7d6829.png",
+   "size": 63653
+  },
+  "spd_20201120_bn_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 57955
+  },
+  "spd_20201130_bn_list_FF5_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 53331
+  },
+  "spd_20201130_bn_list_FF5_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69210
+  },
+  "spd_20201130_bn_list_FF5_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/32c7cf63390006eb.png",
+   "size": 68190
+  },
+  "spd_20201130_bn_list_FF5_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 50931
+  },
+  "spd_20201130_bn_list_FF5_03_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/78428f0837d55873.png",
+   "size": 51935
+  },
+  "spd_20201130_bn_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 53433
+  },
+  "spd_20201202_bn_list_FFBE_mogu02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/7116aa1d5284d743.png",
+   "size": 70777
+  },
+  "spd_20201202_bn_list_FFBE_mogu03.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/0dcd32cf0e76fc6e.png",
+   "size": 70346
+  },
+  "spd_20201211_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 56902
+  },
+  "spd_20201211_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ee211eb6bfb00e64.png",
+   "size": 54831
+  },
+  "spd_20201211_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67907
+  },
+  "spd_20201211_bn_list_FFBE_04_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/67fd28913c7e7ea5.png",
+   "size": 67622
+  },
+  "spd_20201211_bn_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 53944
+  },
+  "spd_20201215_bn_list_scoreattack_christmas.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 75737
+  },
+  "spd_20201221_bn_list_FA_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 72792
+  },
+  "spd_20201221_bn_list_FA_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8656f827b9da52c6.png",
+   "size": 70303
+  },
+  "spd_20201221_bn_list_FA_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 56109
+  },
+  "spd_20201221_bn_list_SBF_33.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/7c00572494e47bd6.png",
+   "size": 75656
+  },
+  "spd_20201221_bn_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 57435
+  },
+  "spd_20201228_bn_list_FF15_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67434
+  },
+  "spd_20201228_bn_list_FF15_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 59355
+  },
+  "spd_20201228_bn_list_FF15_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1935afca6bad5b85.png",
+   "size": 59112
+  },
+  "spd_20201228_bn_list_FF15_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 54174
+  },
+  "spd_20201231_bn_list_Chronicle_FF15.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1c0c369aa9a7c5bf.png",
+   "size": 39764
+  },
+  "spd_20201231_bn_list_Chronicle_FF15_Ifrit.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 70141
+  },
+  "spd_20201231_bn_list_Chronicle_FF15_Maniple.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/52e68e54aab851ae.png",
+   "size": 61938
+  },
+  "spd_20210111_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 76035
+  },
+  "spd_20210111_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64114
+  },
+  "spd_20210111_bn_list_FFBE_04_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3de8cfa9b2f2a96c.png",
+   "size": 62254
+  },
+  "spd_20210112_bn_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 53212
+  },
+  "spd_20210121_bn_list_Chronicle_FF15.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3d7c46780bc1dd6c.png",
+   "size": 48880
+  },
+  "spd_20210121_bn_list_FF15_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 61623
+  },
+  "spd_20210121_bn_list_FF15_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 55757
+  },
+  "spd_20210121_bn_list_FF15_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/eac21f9611c9df22.png",
+   "size": 57057
+  },
+  "spd_20210121_bn_list_SBF_35.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/07c4b7891a31206d.png",
+   "size": 81346
+  },
+  "spd_20210129_bn_list_Chronicle_FF9_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e4c7307612492f55.png",
+   "size": 31670
+  },
+  "spd_20210129_bn_list_Chronicle_FF9_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/db9a0d9f92de189f.png",
+   "size": 31664
+  },
+  "spd_20210129_bn_list_Chronicle_FF9_Beatrix.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67991
+  },
+  "spd_20210129_bn_list_Chronicle_FF9_TheSoulCages.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/480dec69f08d1c48.png",
+   "size": 70298
+  },
+  "spd_20210129_bn_list_FF9_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 58335
+  },
+  "spd_20210129_bn_list_FF9_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/26d59d75703b331c.png",
+   "size": 57534
+  },
+  "spd_20210129_bn_list_FF9_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 55869
+  },
+  "spd_20210129_bn_list_FF9_03_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/bde977464630d9a6.png",
+   "size": 55957
+  },
+  "spd_20210210_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 76922
+  },
+  "spd_20210210_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 261278
+  },
+  "spd_20210210bn_list_FFBE_04_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ee31f1a337997426.png",
+   "size": 261871
+  },
+  "spd_20210219_bn_list_seiken3.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 80772
+  },
+  "spd_20210225_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69452
+  },
+  "spd_20210225_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4c565afaf0ace51b.png",
+   "size": 69337
+  },
+  "spd_20210225_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 61427
+  },
+  "spd_20210310_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 66100
+  },
+  "spd_20210310_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5d7fa10058eef270.png",
+   "size": 64896
+  },
+  "spd_20210310_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69298
+  },
+  "spd_20210310_bn_list_FFBE_04_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d2f1b46113e48122.png",
+   "size": 70755
+  },
+  "spd_20210315_bn_list_FF7R_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/54f95f91b1996637.png",
+   "size": 68710
+  },
+  "spd_20210315_bn_list_FF7R_03_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5d5d034195a1e6a5.png",
+   "size": 68066
+  },
+  "spd_20210319_bn_list_Chronicle_FF11.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e6b346830cfd7281.png",
+   "size": 40894
+  },
+  "spd_20210319_bn_list_Chronicle_FF11_Lilith.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67716
+  },
+  "spd_20210319_bn_list_FF11_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 70123
+  },
+  "spd_20210319_bn_list_FF11_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5f0ef5c7fc244c79.png",
+   "size": 69409
+  },
+  "spd_20210319_bn_list_FF11_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 53170
+  },
+  "spd_20210331_bn_list_Chronicle_FF7_2.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/38024a0dcedb2fa6.png",
+   "size": 38615
+  },
+  "spd_20210331_bn_list_Chronicle_FF7_Heli.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 76395
+  },
+  "spd_20210331_bn_list_Chronicle_FF7_Rufus.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/af328ea259999b9f.png",
+   "size": 61819
+  },
+  "spd_20210331_bn_list_FF7R_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 74367
+  },
+  "spd_20210331_bn_list_FF7R_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e59795911209fe57.png",
+   "size": 74427
+  },
+  "spd_20210331_bn_list_FF7R_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 59278
+  },
+  "spd_20210409_bn_list_FF7_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 65738
+  },
+  "spd_20210409_bn_list_FF7_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_313.png",
+   "size": 63779
+  },
+  "spd_20210409_bn_list_FF7_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 58808
+  },
+  "spd_20210409_bn_list_FF7_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_314.png",
+   "size": 59664
+  },
+  "spd_20210409_bn_list_darkvisions.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_315.png",
+   "size": 64501
+  },
+  "spd_20210419_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 257498
+  },
+  "spd_20210419_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8219f8e38fef09cb.png",
+   "size": 253530
+  },
+  "spd_20210419_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 66464
+  },
+  "spd_20210430_bn_list_Chronicle_FF6.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/6c515453bda2bd16.png",
+   "size": 35477
+  },
+  "spd_20210430_bn_list_Chronicle_FF6_2.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/a704e30935b933cb.png",
+   "size": 38151
+  },
+  "spd_20210430_bn_list_Chronicle_FF6_Orthros.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67578
+  },
+  "spd_20210430_bn_list_Chronicle_FF6_RedDragon.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/27cf80dd51587fe5.png",
+   "size": 68869
+  },
+  "spd_20210430_bn_list_FF6_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64013
+  },
+  "spd_20210430_bn_list_FF6_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b79f1e7cddaa0def.png",
+   "size": 62476
+  },
+  "spd_20210430_bn_top3.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 65518
+  },
+  "spd_20210510_bn_list_Chronicle_FF0.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d3969016ab655c37.png",
+   "size": 36658
+  },
+  "spd_20210510_bn_list_Chronicle_FF0_Charlo.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 75941
+  },
+  "spd_20210510_bn_list_Chronicle_FF0_Vajra.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/08e99d6dbb0091b7.png",
+   "size": 75330
+  },
+  "spd_20210510_bn_list_FF0_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 58291
+  },
+  "spd_20210510_bn_list_FF0_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 58471
+  },
+  "spd_20210510_bn_list_FF0_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/96f3404e14c6bac1.png",
+   "size": 58856
+  },
+  "spd_20210520_bn_list_Chronicle_FFBE3rd_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/85641dcc034e2ea4.png",
+   "size": 44044
+  },
+  "spd_20210520_bn_list_Chronicle_FFBE3rd_Ochu.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/0126f5028638e1dc.png",
+   "size": 72728
+  },
+  "spd_20210520_bn_list_Chronicle_FFBE3rd_Tetra.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 74143
+  },
+  "spd_20210520_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 257759
+  },
+  "spd_20210520_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5c83ea105ed6c0ef.png",
+   "size": 252014
+  },
+  "spd_20210520_bn_list_FFBE_04.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 62989
+  },
+  "spd_20210531_bn_list_Chronicle_FFBE2nd_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 71126
+  },
+  "spd_20210531_bn_list_Chronicle_FFBE3rd_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ca49c29f52f7d06e.png",
+   "size": 39684
+  },
+  "spd_20210531_bn_list_Chronicle_FFBE3rd_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/47c805013fa8c299.png",
+   "size": 43649
+  },
+  "spd_20210531_bn_list_Chronicle_FFBE3rd_EX.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/13677c0254d96da4.png",
+   "size": 78712
+  },
+  "spd_20210531_bn_list_Chronicle_FFBE3rd_Keeper.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/670e91175843f27f.png",
+   "size": 63982
+  },
+  "spd_20210531_bn_list_Chronicle_FFBE3rd_Voir.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 62287
+  },
+  "spd_20210531_bn_list_Chronicle_FFBEside_Ochu.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/fa06ebea7323010f.png",
+   "size": 72351
+  },
+  "spd_20210531_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68474
+  },
+  "spd_20210531_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 63211
+  },
+  "spd_20210531_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3e10c061e8b45e8c.png",
+   "size": 63645
+  },
+  "spd_20210531_bn_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 53969
+  },
+  "spd_20210610_bn_list_DQMSL_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 58222
+  },
+  "spd_20210610_bn_list_DQMSL_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/633205ca7bce0644.png",
+   "size": 57974
+  },
+  "spd_20210610_bn_list_DQMSL_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 56127
+  },
+  "spd_20210610_bn_list_DQMSL_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8b73e07e706bd958.png",
+   "size": 56763
+  },
+  "spd_20210621_bn_list_LOM.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 70434
+  },
+  "spd_20210621_bn_list_LOM_02.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 57131
+  },
+  "spd_20210621_bn_list_LOM_02_last.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/34e063f035da68ef.png",
+   "size": 58385
+  },
+  "spd_20210621_bn_list_LOM_last.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b7adc537dc69c44d.png",
+   "size": 68132
+  },
+  "spd_20210630_bn_list_Chronicle_FF10.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/6a82eb6a45a46a79.png",
+   "size": 38157
+  },
+  "spd_20210630_bn_list_Chronicle_FF10_Behemoth.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69996
+  },
+  "spd_20210630_bn_list_FF10_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67745
+  },
+  "spd_20210630_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69619
+  },
+  "spd_20210630_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/45f6b8c41c2e233b.png",
+   "size": 68520
+  },
+  "spd_20210630_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 66423
+  },
+  "spd_20210712_bn_list_FF10_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69954
+  },
+  "spd_20210712_bn_list_FF10_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/95ec6212182799ec.png",
+   "size": 68089
+  },
+  "spd_20210712_bn_list_FF10_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 63920
+  },
+  "spd_20210712_bn_list_FF10_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/6a6fdaefbe41ff59.png",
+   "size": 64966
+  },
+  "spd_20210721_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 65003
+  },
+  "spd_20210721_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/2e80cd5d252c85db.png",
+   "size": 64921
+  },
+  "spd_20210721_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69565
+  },
+  "spd_20210721_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f73a747f42fcd640.png",
+   "size": 68578
+  },
+  "spd_20210730_bn_list_Chronicle_FFBE4th_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b8e84358ecc5db61.png",
+   "size": 38501
+  },
+  "spd_20210730_bn_list_Chronicle_FFBE4th_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 71979
+  },
+  "spd_20210730_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64140
+  },
+  "spd_20210730_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e1db3472eab891b3.png",
+   "size": 62313
+  },
+  "spd_20210730_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64767
+  },
+  "spd_20210730_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/dbecf42a923814c0.png",
+   "size": 65106
+  },
+  "spd_20210810_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d8527b8b0de5b6c3.png",
+   "size": 84023
+  },
+  "spd_20210810_bn_list_Chronicle_FF5_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/92df173f92a41236.png",
+   "size": 42174
+  },
+  "spd_20210810_bn_list_Chronicle_FF5_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8510b16741719023.png",
+   "size": 64429
+  },
+  "spd_20210810_bn_list_Chronicle_FF5_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69815
+  },
+  "spd_20210810_bn_list_FF5_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 59917
+  },
+  "spd_20210810_bn_list_FF5_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 56776
+  },
+  "spd_20210820_bn_list_Xeno.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 75958
+  },
+  "spd_20210820_bn_list_Xeno_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67725
+  },
+  "spd_20210831_bn_list_Chronicle_FF4_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68364
+  },
+  "spd_20210831_bn_list_FF4_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 65329
+  },
+  "spd_20210831_bn_list_FF4_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 62895
+  },
+  "spd_20210831_bn_list_FF4_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/adf9d886c8a05938.png",
+   "size": 63853
+  },
+  "spd_20210906_bn_list_sinoalice_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 58270
+  },
+  "spd_20210906_bn_list_sinoalice_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/fffafb28b058eb2b.png",
+   "size": 57348
+  },
+  "spd_20210910_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1e7849ddc32e26ee.png",
+   "size": 87257
+  },
+  "spd_20210910_bn_list_Chronicle_FF4_04.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1123b4003b965960.png",
+   "size": 69830
+  },
+  "spd_20210910_bn_list_Chronicle_FF4_05.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c9bd3404624c1a40.png",
+   "size": 67886
+  },
+  "spd_20210910_bn_list_FF4_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 61962
+  },
+  "spd_20210910_bn_list_FF4_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/7528b50d5aadfe82.png",
+   "size": 60796
+  },
+  "spd_20210910_bn_list_FF4_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 62408
+  },
+  "spd_20210910_bn_list_FF4_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4c657b3fdf580fc5.png",
+   "size": 62505
+  },
+  "spd_20210921_bn_list_6th_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 71129
+  },
+  "spd_20210921_bn_list_6th_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f22e1a87424510b2.png",
+   "size": 68762
+  },
+  "spd_20210921_bn_list_6th_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69052
+  },
+  "spd_20210921_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 71821
+  },
+  "spd_20210921_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/a5c43876eeb17d34.png",
+   "size": 70516
+  },
+  "spd_20210930_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68495
+  },
+  "spd_20210930_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/2e5df51aaceff0d1.png",
+   "size": 65929
+  },
+  "spd_20210930_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 65402
+  },
+  "spd_20210930_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d32bec270b5039eb.png",
+   "size": 64740
+  },
+  "spd_20210930_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 66567
+  },
+  "spd_20210930_bn_list_FFBE_03_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/789bb6eda2a10228.png",
+   "size": 66505
+  },
+  "spd_20210930_bn_list_sairin-2.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/16a53079c7c6ac0b.png",
+   "size": 86264
+  },
+  "spd_20210930_bn_list_sairin-3.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f88855e95f27326b.png",
+   "size": 86421
+  },
+  "spd_20210930_bn_list_sairin-4.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/904092424726bf76.png",
+   "size": 86326
+  },
+  "spd_20210930_bn_list_sairin-5.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ddd38c38c0626a03.png",
+   "size": 86717
+  },
+  "spd_20211007_bn_list_Chronicle_FFBE.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 80088
+  },
+  "spd_20211007_bn_list_Chronicle_FFBE_ex.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 75273
+  },
+  "spd_20211007_bn_list_Chronicle_FFBE_ex_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/187ba6806eb49644.png",
+   "size": 73626
+  },
+  "spd_20211007_bn_list_Chronicle_FFBE_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e39931a88acf3adb.png",
+   "size": 78673
+  },
+  "spd_20211014_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 70497
+  },
+  "spd_20211014_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 72731
+  },
+  "spd_20211014_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f51c6db4eaac8861.png",
+   "size": 72648
+  },
+  "spd_20211021_bn_list_ffbe.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 83615
+  },
+  "spd_20211021_bn_list_ffbe_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/67e985965bb251c5.png",
+   "size": 81781
+  },
+  "spd_20211029_bn_list_Chronicle_FF8_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/35226de2990255b2.png",
+   "size": 37107
+  },
+  "spd_20211029_bn_list_Chronicle_FF8_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/72b7534ddd81d49f.png",
+   "size": 69938
+  },
+  "spd_20211029_bn_list_Chronicle_FF8_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69000
+  },
+  "spd_20211029_bn_list_Chronicle_FF8_ex.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/9fd077b766939764.png",
+   "size": 66434
+  },
+  "spd_20211029_bn_list_Chronicle_FF8_ex02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/70d9fea83de9691c.png",
+   "size": 65379
+  },
+  "spd_20211029_bn_list_FF8_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 58377
+  },
+  "spd_20211029_bn_list_FF8_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 61592
+  },
+  "spd_20211110_bn_list_FF8_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64079
+  },
+  "spd_20211110_bn_list_FF8_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 62977
+  },
+  "spd_20211110_bn_list_FF8_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/63ce82504b415561.png",
+   "size": 62491
+  },
+  "spd_20211119_bn_ikai_shingi.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 60494
+  },
+  "spd_20211119_bn_list_WOTV_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68017
+  },
+  "spd_20211119_bn_list_WOTV_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b8821f4532b0eb6f.png",
+   "size": 67009
+  },
+  "spd_20211119_bn_list_WOTV_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68048
+  },
+  "spd_20211119_bn_list_WOTV_unit01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69862
+  },
+  "spd_20211119_bn_list_WOTV_unit01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3081.png",
+   "size": 70089
+  },
+  "spd_20211119_bn_list_WOTV_unit02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 71430
+  },
+  "spd_20211119_bn_list_WOTV_unit03_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/70be932d3a451bb1.png",
+   "size": 70206
+  },
+  "spd_20211130_bn_list_Chronicle_FF1_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3092.png",
+   "size": 63154
+  },
+  "spd_20211130_bn_list_Chronicle_FF1_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 61603
+  },
+  "spd_20211130_bn_list_FF1_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 63207
+  },
+  "spd_20211130_bn_list_FF1_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3093.png",
+   "size": 61677
+  },
+  "spd_20211130_bn_list_FF1_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 66576
+  },
+  "spd_20211210_bn_list_Chronicle_FFBE4th_ex.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/dc5e05b8bf397ac5.png",
+   "size": 72540
+  },
+  "spd_20211210_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 66602
+  },
+  "spd_20211210_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 58702
+  },
+  "spd_20211210_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/19226738c7d5e5ba.png",
+   "size": 58622
+  },
+  "spd_20211217_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 83078
+  },
+  "spd_20211217_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68162
+  },
+  "spd_20211217_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e8de00b817f4688c.png",
+   "size": 68412
+  },
+  "spd_20211217_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69274
+  },
+  "spd_20211228_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64121
+  },
+  "spd_20211228_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69582
+  },
+  "spd_20211228_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/9a139a5abe343f82.png",
+   "size": 69137
+  },
+  "spd_20211228_bn_list_FFBE_mogu.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 73705
+  },
+  "spd_20211228_bn_list_bushin.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 61349
+  },
+  "spd_20211228_bn_list_bushin_ep2.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/076c8f950c1fea6c.png",
+   "size": 57115
+  },
+  "spd_202112_bn_list_sairin.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 89568
+  },
+  "spd_2021930_bn_list_sairin_ep3.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/643d05d91c741c6d.png",
+   "size": 88624
+  },
+  "spd_20220111_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ebfbd57006eccbec.png",
+   "size": 82884
+  },
+  "spd_20220111_bn_list_Chronicle_FFBE.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68429
+  },
+  "spd_20220111_bn_list_Chronicle_FFBE_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/16eacdeea442b12d.png",
+   "size": 67000
+  },
+  "spd_20220111_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 74941
+  },
+  "spd_20220120_bn_list_dai_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67441
+  },
+  "spd_20220120_bn_list_dai_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 55594
+  },
+  "spd_20220120_bn_list_dai_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/15c06b63fe3ffe3f.png",
+   "size": 56240
+  },
+  "spd_20220120_bn_list_dai_chara.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 71276
+  },
+  "spd_20220120_bn_list_dai_chara_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/edbac7f1e781f0e1.png",
+   "size": 69964
+  },
+  "spd_20220131_bn_list_dai_chara.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/a3b16a431c408e5b.png",
+   "size": 71094
+  },
+  "spd_20220131_bn_list_dai_chara_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/9ebb476867d66f49.png",
+   "size": 69214
+  },
+  "spd_20220131_bn_list_dqdai.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68234
+  },
+  "spd_20220131_bn_list_dqdai_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64558
+  },
+  "spd_20220131_bn_list_dqdai_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3433bce008db8786.png",
+   "size": 67645
+  },
+  "spd_20220210_bn_list_Chronicle_FF2_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/0e6065d1d317aaed.png",
+   "size": 38964
+  },
+  "spd_20220210_bn_list_Chronicle_FF2_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 66933
+  },
+  "spd_20220210_bn_list_FF2_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 68692
+  },
+  "spd_20220210_bn_list_FF2_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/9e827ac75f8aceb8.png",
+   "size": 67205
+  },
+  "spd_20220210_bn_list_FF2_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 64419
+  },
+  "spd_20220210_bn_list_FF2_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/9bdd4912bc364583.png",
+   "size": 63932
+  },
+  "spd_20220218_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e3bb6cb9c736202f.png",
+   "size": 85663
+  },
+  "spd_20220218_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69779
+  },
+  "spd_20220218_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f7987327d28ffd38.png",
+   "size": 68673
+  },
+  "spd_20220218_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 59099
+  },
+  "spd_20220218_bn_list_FFBE_Reprint01.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/db5efb367661d723.png",
+   "size": 67155
+  },
+  "spd_20220218_bn_list_FFBE_Reprint01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/85dafeeaf1a1eff3.png",
+   "size": 66311
+  },
+  "spd_20220218_bn_list_FFBE_Reprint02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3910d78c1254466e.png",
+   "size": 72414
+  },
+  "spd_20220218_bn_list_FFBE_Reprint02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b76dca7cedab3122.png",
+   "size": 71801
+  },
+  "spd_20220228_bn_list_Chronicle_FF12_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e5ab9f0e4c0f1d9f.png",
+   "size": 63681
+  },
+  "spd_20220228_bn_list_Chronicle_FF12_03.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 61885
+  },
+  "spd_20220228_bn_list_FF12_01.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 69449
+  },
+  "spd_20220228_bn_list_FF12_01_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1d17d36d34226331.png",
+   "size": 67966
+  },
+  "spd_20220228_bn_list_FF12_02.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 67993
+  },
+  "spd_20220228_bn_list_FF12_02_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4889c179195d31eb.png",
+   "size": 67756
+  },
+  "spd_20220228_bn_list_FF12_Reprint_last.png": {
+   "cpk": "spdungeon3.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ca36dfffabd485d4.png",
+   "size": 63933
+  },
+  "spd_20220310_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/fde06645645a1bd3.png",
+   "size": 82889
+  },
+  "spd_20220310_bn_list_Chronicle_FF12_04.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e8c14bfe91593174.png",
+   "size": 46004
+  },
+  "spd_20220310_bn_list_Chronicle_FF12_05.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/31727fe67fc12b46.png",
+   "size": 66228
+  },
+  "spd_20220310_bn_list_Chronicle_FF12_06.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/86276ab983499b2d.png",
+   "size": 66845
+  },
+  "spd_20220310_bn_list_Chronicle_FF12_ex.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c9d4f7373ff49c93.png",
+   "size": 67603
+  },
+  "spd_20220310_bn_list_Chronicle_FF12_ex02.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/aaf262f92c73734f.png",
+   "size": 67998
+  },
+  "spd_20220310_bn_list_FF12_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 68154
+  },
+  "spd_20220310_bn_list_FF12_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/fd6b6dfbcfe0ae66.png",
+   "size": 67002
+  },
+  "spd_20220310_bn_list_FF12_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 64401
+  },
+  "spd_20220310_bn_list_FF12_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/6f84534fafaa7535.png",
+   "size": 64831
+  },
+  "spd_20220318_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 70877
+  },
+  "spd_20220318_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f8307a029e45b610.png",
+   "size": 68970
+  },
+  "spd_20220318_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 65892
+  },
+  "spd_20220318_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 70647
+  },
+  "spd_20220318_bn_list_FFBE_03_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ff927d6f611b3187.png",
+   "size": 69863
+  },
+  "spd_20220331_bn_list_FF10_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 64653
+  },
+  "spd_20220331_bn_list_FF10_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3d06be1ac5d6bf9d.png",
+   "size": 63608
+  },
+  "spd_20220331_bn_list_FF10_03_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d1f780fcd03bc737.png",
+   "size": 63047
+  },
+  "spd_20220331_bn_list_FF10_Reprint.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3b27f26fc34b204a.png",
+   "size": 66655
+  },
+  "spd_20220331_bn_list_FF10_Reprint_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e9b79923d2cc1087.png",
+   "size": 65820
+  },
+  "spd_20220411_bn_list_FF10_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 62482
+  },
+  "spd_20220411_bn_list_FF10_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/2c21bfcfb276d960.png",
+   "size": 61402
+  },
+  "spd_20220411_bn_list_FF10_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 58364
+  },
+  "spd_20220411_bn_list_FF10_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/492585eb39742064.png",
+   "size": 60003
+  },
+  "spd_20220411_bn_list_FF10_03.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/83469841f3ad8423.png",
+   "size": 69125
+  },
+  "spd_20220411_bn_list_FF10_03_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/fd0cf1e49d47a3e2.png",
+   "size": 67868
+  },
+  "spd_20220411_bn_list_FF10_Reprint.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3dfa8e33eb150520.png",
+   "size": 69344
+  },
+  "spd_20220411_bn_list_FF10_Reprint_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5fcd9802f995229a.png",
+   "size": 68897
+  },
+  "spd_20220411_bn_list_seiken_chara.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 75792
+  },
+  "spd_20220411_bn_list_seiken_chara_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4283ccafb39f3df8.png",
+   "size": 74564
+  },
+  "spd_20220411_bn_list_seiken_reprint.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 70853
+  },
+  "spd_20220411_bn_list_seiken_reprint_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8b1ecf4a5b805caa.png",
+   "size": 69891
+  },
+  "spd_20220420_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8d5b141ccd1b63f1.png",
+   "size": 82885
+  },
+  "spd_20220420_bn_list_Chronicle_FF10_ex.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5537851729f8bf81.png",
+   "size": 59087
+  },
+  "spd_20220420_bn_list_Chronicle_FF10_ex02.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f9b55327fb85e5e9.png",
+   "size": 60549
+  },
+  "spd_20220420_bn_list_FF10.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 82900
+  },
+  "spd_20220420_bn_list_FFBE_reprint_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5b3a393ee34e4fc1.png",
+   "size": 64531
+  },
+  "spd_20220420_bn_list_dramatic.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 70511
+  },
+  "spd_20220420_bn_list_dramatic_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/859759cb33d80770.png",
+   "size": 68770
+  },
+  "spd_20220428_bn_list_FF10-2_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 60802
+  },
+  "spd_20220428_bn_list_FF10-2_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/515dfb1eaef0953d.png",
+   "size": 60637
+  },
+  "spd_20220428_bn_list_FF10-2_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 61077
+  },
+  "spd_20220428_bn_list_FF10-2_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f3f067d40983810a.png",
+   "size": 61045
+  },
+  "spd_20220428_bn_list_FF10-2_chara.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 78568
+  },
+  "spd_20220511_bn_list_FF9_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 71025
+  },
+  "spd_20220511_bn_list_FF9_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/6cf1244ee034fc08.png",
+   "size": 68918
+  },
+  "spd_20220511_bn_list_FF9_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 62420
+  },
+  "spd_20220511_bn_list_FF9_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/21dbc31bd9647dc3.png",
+   "size": 62311
+  },
+  "spd_20220520_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon1.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4d993262314fe146.png",
+   "size": 86558
+  },
+  "spd_20220520_bn_list_DQMSL_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_902.png",
+   "size": 59289
+  },
+  "spd_20220520_bn_list_DQMSL_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_903.png",
+   "size": 57239
+  },
+  "spd_20220520_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 80996
+  },
+  "spd_20220520_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_904.png",
+   "size": 78887
+  },
+  "spd_20220520_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 67488
+  },
+  "spd_20220520_bn_list_FFBE_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_905.png",
+   "size": 67092
+  },
+  "spd_20220520_bn_list_FFBE_03.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 67913
+  },
+  "spd_20220531_bn_list_Chronicle_FF4_06.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_930.png",
+   "size": 61448
+  },
+  "spd_20220531_bn_list_Chronicle_FF4_07.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_931.png",
+   "size": 70231
+  },
+  "spd_20220531_bn_list_FF4_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 62002
+  },
+  "spd_20220531_bn_list_FF4_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 67563
+  },
+  "spd_20220531_bn_list_FF4_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_932.png",
+   "size": 67698
+  },
+  "spd_20220610_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_933.png",
+   "size": 86688
+  },
+  "spd_20220610_bn_list_ChronoCross_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 64550
+  },
+  "spd_20220610_bn_list_ChronoCross_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 60548
+  },
+  "spd_20220610_bn_list_ChronoCross_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/fbbc242ff9179f9a.png",
+   "size": 60900
+  },
+  "spd_20220610_bn_list_ChronoCross_03.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 61548
+  },
+  "spd_20220610_bn_list_ChronoCross_03_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/61d26bb119188543.png",
+   "size": 61260
+  },
+  "spd_20220610_bn_list_ChronoCross_chara.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 74323
+  },
+  "spd_20220621_bn_list_Chronicle_FF3.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/69949035c758421c.png",
+   "size": 37839
+  },
+  "spd_20220621_bn_list_Chronicle_FF3_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 64401
+  },
+  "spd_20220621_bn_list_FF3_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 62603
+  },
+  "spd_20220621_bn_list_FF3_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/27c797d2b8036620.png",
+   "size": 60516
+  },
+  "spd_20220621_bn_list_FF3_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 61823
+  },
+  "spd_20220621_bn_list_FF3_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/0c52428098a6269f.png",
+   "size": 63028
+  },
+  "spd_20220630_bn_list_FF6_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 64090
+  },
+  "spd_20220630_bn_list_FF6_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 59823
+  },
+  "spd_20220630_bn_list_FF6_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c33282e536b89d75.png",
+   "size": 60006
+  },
+  "spd_20220630_bn_list_FF6_crown.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4bbee166b78299a4.png",
+   "size": 63691
+  },
+  "spd_20220630_bn_list_FF6_crown_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e03dd7bd80bebb83.png",
+   "size": 63633
+  },
+  "spd_20220630_bn_list_FF6_tansaku.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 58784
+  },
+  "spd_20220630_bn_list_FF6_tansaku_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f38214d88849928e.png",
+   "size": 57692
+  },
+  "spd_20220711_bn_list_12syuzoku.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/63c31b882cbb2364.png",
+   "size": 86561
+  },
+  "spd_20220711_bn_list_xeno_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 67313
+  },
+  "spd_20220711_bn_list_xeno_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/cb87c9a488dd9ad4.png",
+   "size": 67161
+  },
+  "spd_20220711_bn_list_xeno_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 56923
+  },
+  "spd_20220711_bn_list_xeno_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1306e6355800f31b.png",
+   "size": 57787
+  },
+  "spd_20220711_bn_list_xeno_crown.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 63418
+  },
+  "spd_20220711_bn_list_xeno_crown02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 62123
+  },
+  "spd_20220711_bn_list_xeno_crown_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/3a176a056cb83583.png",
+   "size": 63215
+  },
+  "spd_20220720_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 78481
+  },
+  "spd_20220720_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/202113f86424c410.png",
+   "size": 76625
+  },
+  "spd_20220720_bn_list_FFBE_crown_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/cc54de00f1787b30.png",
+   "size": 60835
+  },
+  "spd_20220720_bn_list_FFBE_genko.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 65115
+  },
+  "spd_20220729_bn_list_FF7_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 58698
+  },
+  "spd_20220729_bn_list_FF7_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 64376
+  },
+  "spd_20220729_bn_list_FF7_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c23bc78a36a6e3d0.png",
+   "size": 64051
+  },
+  "spd_20220729_bn_list_FF7_crown.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/8c986c03d4ee51b3.png",
+   "size": 61189
+  },
+  "spd_20220729_bn_list_FF7_crown_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/50aa855f78b449af.png",
+   "size": 59979
+  },
+  "spd_20220729_bn_list_FF7_tansaku.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 60233
+  },
+  "spd_20220729_bn_list_FF7_tansaku_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/afffc5f27d5f528e.png",
+   "size": 57875
+  },
+  "spd_20220729_bn_list_FF7_vison.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/be5fd0f4e2832faa.png",
+   "size": 67326
+  },
+  "spd_20220729_bn_list_FF7_vw.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 82934
+  },
+  "spd_20220729_bn_list_FF7_vw_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d95e2548040578cd.png",
+   "size": 82302
+  },
+  "spd_20220810_bn_list_FF7_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 64184
+  },
+  "spd_20220810_bn_list_FF7_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/1138a7b5fc1dd377.png",
+   "size": 62540
+  },
+  "spd_20220810_bn_list_FF7_crown.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/b9f8c6904e01a9af.png",
+   "size": 60252
+  },
+  "spd_20220810_bn_list_FF7_vision.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d8f56b8a34f82871.png",
+   "size": 66070
+  },
+  "spd_20220810_bn_list_FF7_vision_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/630eb9820eb8298c.png",
+   "size": 65589
+  },
+  "spd_20220822_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 69988
+  },
+  "spd_20220822_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/4c66fde7ef21942f.png",
+   "size": 69993
+  },
+  "spd_20220822_bn_list_FFBE_crown_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/a76298d068b7e7a6.png",
+   "size": 64155
+  },
+  "spd_20220822_bn_list_FFBE_genko.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 61205
+  },
+  "spd_20220822_bn_list_FFBE_genko_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/17278f37af70c112.png",
+   "size": 60690
+  },
+  "spd_20220822_bn_list_FFBE_vision.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/ed9e9d9146b74ca7.png",
+   "size": 68409
+  },
+  "spd_20220822_bn_list_FFBE_vision_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/dda6e853e9aff398.png",
+   "size": 67359
+  },
+  "spd_20220831_bn_list_FF5_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 61736
+  },
+  "spd_20220831_bn_list_FF5_02.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 58657
+  },
+  "spd_20220831_bn_list_FF5_02_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/e4ccd866cc390593.png",
+   "size": 59205
+  },
+  "spd_20220831_bn_list_FF5_crown_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/db4c25ddbbacbe8a.png",
+   "size": 60276
+  },
+  "spd_20220831_bn_list_FF5_tansaku.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 71847
+  },
+  "spd_20220909_bn_list_FF5_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 63992
+  },
+  "spd_20220909_bn_list_FF5_tansaku.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 63616
+  },
+  "spd_20220909_bn_list_FF5_vision_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/c11e15424b9116a9.png",
+   "size": 72284
+  },
+  "spd_20220921_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 67076
+  },
+  "spd_20220921_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5044364419c814a8.png",
+   "size": 65187
+  },
+  "spd_20220921_bn_list_FFBE_crown.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/2ee23c0baca135b1.png",
+   "size": 66072
+  },
+  "spd_20220921_bn_list_FFBE_crown_last.png": {
+   "cpk": "spdungeon4.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/7671d4ac83570f2f.png",
+   "size": 66245
+  },
+  "spd_20220921_bn_list_FFBE_genko.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 65194
+  },
+  "spd_20220930_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 63170
+  },
+  "spd_20220930_bn_list_FFBE_02.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 65197
+  },
+  "spd_20220930_bn_list_masyou_ep3.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/7cf220cb39879a95.png",
+   "size": 85217
+  },
+  "spd_20220930_bn_list_masyou_ep4.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/2aca76ad0d94242e.png",
+   "size": 73489
+  },
+  "spd_20221011_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 63718
+  },
+  "spd_20221011_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/884318a06a4c8518.png",
+   "size": 63745
+  },
+  "spd_20221011_bn_list_FFBE_crown.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/cc5823168d1ca065.png",
+   "size": 64368
+  },
+  "spd_20221011_bn_list_FFBE_crown_last.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/fb6980d823cb44b7.png",
+   "size": 64517
+  },
+  "spd_20221011_bn_list_FFBE_vision.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/954493850856d88b.png",
+   "size": 70144
+  },
+  "spd_20221011_bn_list_FFBE_vision_last.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/f618c896c8a15c34.png",
+   "size": 70222
+  },
+  "spd_20221021_bn_list_FF6_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/137201a17843a8af.png",
+   "size": 65443
+  },
+  "spd_20221021_bn_list_FF6_01_last.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/d51356a400757561.png",
+   "size": 63520
+  },
+  "spd_20221021_bn_list_FF6_tansaku_last.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/293e599324d5809f.png",
+   "size": 58823
+  },
+  "spd_20221021_bn_list_FFBE7th_present.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 73283
+  },
+  "spd_20221021_bn_list_FFBE_crown_last.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/5e4471fc88c68cf0.png",
+   "size": 65840
+  },
+  "spd_20221021_bn_list_rengoku01.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/9860e2156ccb70de.png",
+   "size": 78867
+  },
+  "spd_20221031_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 58652
+  },
+  "spd_20221031_bn_list_FFBE_01_last.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/a3d17afbe553053e.png",
+   "size": 58527
+  },
+  "spd_20221031_bn_list_FFBE_crown1.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/0e463e1926dea66d.png",
+   "size": 63261
+  },
+  "spd_20221031_bn_list_FFBE_crown1_last.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_403.png",
+   "size": 64431
+  },
+  "spd_20221110_bn_list_BlueMagic_04.png": {
+   "cpk": "spdungeon5.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3038.png",
+   "size": 58716
+  },
+  "spd_20221110_bn_list_FF11_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 63762
+  },
+  "spd_20221120_bn_list_ROTO_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 58881
+  },
+  "spd_20221120_bn_list_ROTO_chara.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 74408
+  },
+  "spd_20221120_bn_list_ROTO_vision.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 65175
+  },
+  "spd_20221120_bn_list_ROTO_weapon1.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 60767
+  },
+  "spd_20221120_bn_list_ROTO_weapon2.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 64460
+  },
+  "spd_20221130_bn_list_35thchoice.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 74567
+  },
+  "spd_20221130_bn_list_CCFF7R_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 61948
+  },
+  "spd_20221209_bn_list_CCFF7R_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 66305
+  },
+  "spd_20221220_bn_list_LoM_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 58927
+  },
+  "spd_20221220_bn_list_LoM_weapon.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 60066
+  },
+  "spd_20221220_bn_list_seiken_crown1.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 61799
+  },
+  "spd_20221220_bn_list_seiken_crown2.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 55649
+  },
+  "spd_20221220_bn_list_seiken_crown3.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 67112
+  },
+  "spd_20221228_bn_list_FF8.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 76276
+  },
+  "spd_20221228_bn_list_FF8_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 64817
+  },
+  "spd_20221228_bn_list_FFBE_mogu.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 75802
+  },
+  "spd_20221228_bn_list_newyearkourin.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 70258
+  },
+  "spd_2022_bn_list_masyou.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 90018
+  },
+  "spd_20230111_bn_list_FF8_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 57454
+  },
+  "spd_20230120_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 85330
+  },
+  "spd_20230131_bn_list_FF0_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 63549
+  },
+  "spd_20230131_bn_list_FF0_reprint_tansaku.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 67244
+  },
+  "spd_20230210_bn_list_FF0_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 66310
+  },
+  "spd_20230217_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 58564
+  },
+  "spd_20230228_bn_list_FF9_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 70887
+  },
+  "spd_20230228_bn_list_choice.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 73490
+  },
+  "spd_20230310_bn_list_FF9_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 59855
+  },
+  "spd_20230310_bn_list_FF9_reprint_tansaku.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 65501
+  },
+  "spd_20230320_bn_list_WOTV_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 70121
+  },
+  "spd_20230320_bn_list_WOTV_crown.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 65354
+  },
+  "spd_20230320_bn_list_WOTV_weapon.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 62113
+  },
+  "spd_20230329_bn_list_FF13.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 70431
+  },
+  "spd_20230329_bn_list_FF13_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 66617
+  },
+  "spd_20230329_bn_list_FF6_crown_last.png": {
+   "cpk": "spdungeon6.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_950.png",
+   "size": 70336
+  },
+  "spd_20230329_bn_list_rengoku0401.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 64848
+  },
+  "spd_20230410_bn_list_FF13_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 61788
+  },
+  "spd_20230410_bn_list_FF13_tansaku.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 65541
+  },
+  "spd_20230421_bn_list_FF10_crown.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 62675
+  },
+  "spd_20230421_bn_list_FF8.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 65415
+  },
+  "spd_20230421_bn_list_labyrinth.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 63497
+  },
+  "spd_20230428_bn_list_FF10_crown.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 66720
+  },
+  "spd_20230428_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 70784
+  },
+  "spd_20230511_bn_list_FF_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 61286
+  },
+  "spd_20230511_bn_list_FF_tansaku.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 72485
+  },
+  "spd_20230519_bn_list_dai_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 58278
+  },
+  "spd_20230519_bn_list_dai_chara.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 75399
+  },
+  "spd_20230519_bn_list_dai_crown.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 59189
+  },
+  "spd_20230519_bn_list_dai_weapon.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 56605
+  },
+  "spd_20230519_bn_list_dai_weapon2.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 60124
+  },
+  "spd_20230531_bn_list_dai_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 56335
+  },
+  "spd_20230531_bn_list_dai_chara.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 75515
+  },
+  "spd_20230531_bn_list_dai_crown.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 59393
+  },
+  "spd_20230531_bn_list_dai_crown2.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 60300
+  },
+  "spd_20230531_bn_list_dai_weapon.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 63424
+  },
+  "spd_20230531_bn_list_dai_weapon2.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 63909
+  },
+  "spd_20230612_bn_list_FF_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 64854
+  },
+  "spd_20230612_bn_list_FF_tansaku.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 66769
+  },
+  "spd_20230620_bn_list_FF4_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 56766
+  },
+  "spd_20230630_bn_list_FF6_crown.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 63896
+  },
+  "spd_20230630_bn_list_FFT_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 67539
+  },
+  "spd_20230630_bn_shingi.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 57683
+  },
+  "spd_20230710_bn_list_FFT_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 64300
+  },
+  "spd_20230710_bn_list_FFT_tansaku.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 70059
+  },
+  "spd_20230720_bn_list_seiken_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 69085
+  },
+  "spd_20230720_bn_list_seiken_chara.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 75501
+  },
+  "spd_20230720_bn_list_seiken_vision.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 65737
+  },
+  "spd_20230720_bn_list_seiken_weapon.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 69061
+  },
+  "spd_20230720_bn_list_seiken_weapon2.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 71627
+  },
+  "spd_20230731_bn_list_FF15.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 66102
+  },
+  "spd_20230731_bn_list_FF15_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 70557
+  },
+  "spd_20230810_bn_list_FF15_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 67081
+  },
+  "spd_20230810_bn_list_FF15_tansaku.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 71600
+  },
+  "spd_20230821_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon6.cpk",
+   "size": 62669
+  },
+  "spd_20230831_bn_list_FA_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 69744
+  },
+  "spd_20230831_bn_list_FA_crown.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 64281
+  },
+  "spd_20230831_bn_list_FA_crown2.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 66243
+  },
+  "spd_20230831_bn_list_FA_crown2_last.png": {
+   "cpk": "spdungeon7.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3288.png",
+   "size": 65734
+  },
+  "spd_20230831_bn_list_FA_weapon.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 68604
+  },
+  "spd_20230831_bn_list_FA_weapon_last.png": {
+   "cpk": "spdungeon7.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3298.png",
+   "size": 66828
+  },
+  "spd_20230831_bn_list_FF6_tansaku_reprint_last.png": {
+   "cpk": "spdungeon7.cpk",
+   "path": "exvius/data/static/client/files/ko/vortex_banner/name_3300.png",
+   "size": 59086
+  },
+  "spd_20230911_bn_list_FA_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 63786
+  },
+  "spd_20230911_bn_list_FA_crown.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 61832
+  },
+  "spd_20230911_bn_list_FA_weapon.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 66705
+  },
+  "spd_20230919_bn_list_FFBE8th_sp.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 71583
+  },
+  "spd_20230919_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 70075
+  },
+  "spd_20230920_bn_list_FF14.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 80533
+  },
+  "spd_20230920_bn_shingi.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 56453
+  },
+  "spd_20230930_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 63983
+  },
+  "spd_20231010_bn_list_8th.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 77342
+  },
+  "spd_20231010_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 66415
+  },
+  "spd_20231031_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 64159
+  },
+  "spd_20231031_bn_list_PE_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 65587
+  },
+  "spd_20231031_bn_list_PE_weapon.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 59988
+  },
+  "spd_20231110_bn_list_WOTV_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 67700
+  },
+  "spd_20231110_bn_list_WOTV_crown.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 61305
+  },
+  "spd_20231110_bn_list_evolve_WOTV.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 66666
+  },
+  "spd_20231120_bn_list_evolve_xeno.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 59942
+  },
+  "spd_20231120_bn_list_xeno.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 59605
+  },
+  "spd_20231120_bn_list_xeno_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 60810
+  },
+  "spd_20231120_bn_list_xeno_crown.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 65732
+  },
+  "spd_20231130_bn_list_xeno_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 63544
+  },
+  "spd_20231130_bn_list_xeno_crown.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 58715
+  },
+  "spd_20231211_bn_list_FF10_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 60581
+  },
+  "spd_20231220_bn_list_FF10_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 58888
+  },
+  "spd_20231228_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 68339
+  },
+  "spd_20231228_bn_list_FFBE_mogu.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 75628
+  },
+  "spd_20231228_bn_list_newyear_present.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 75747
+  },
+  "spd_20231228_bn_list_newyearkourin.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 76094
+  },
+  "spd_2023_bn_list_hametu.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 83918
+  },
+  "spd_20240111_bn_list_evolve.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 60220
+  },
+  "spd_20240111_bn_list_saga_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 63813
+  },
+  "spd_20240111_bn_list_saga_chara.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 73998
+  },
+  "spd_20240111_bn_list_saga_weapon.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 71073
+  },
+  "spd_20240111_bn_list_saga_weapon2.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 60499
+  },
+  "spd_20240119_bn_list_evolve.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 57273
+  },
+  "spd_20240119_bn_list_saga_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 63570
+  },
+  "spd_20240119_bn_list_saga_chara.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 72105
+  },
+  "spd_20240119_bn_list_saga_weapon.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 57831
+  },
+  "spd_20240131_bn_list_FF12_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 66056
+  },
+  "spd_20240209_bn_list_FF12_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 67656
+  },
+  "spd_20240219_bn_list_ROTO_crown.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 59425
+  },
+  "spd_20240219_bn_list_evolve_ROTO.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 58030
+  },
+  "spd_20240219_bn_list_roto.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 64146
+  },
+  "spd_20240219_bn_list_roto_chara.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 74087
+  },
+  "spd_20240228_bn_list_ROTO_weapon.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 61508
+  },
+  "spd_20240228_bn_list_roto_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 58207
+  },
+  "spd_20240228_bn_list_roto_chara.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 73584
+  },
+  "spd_20240310_bn_list_FF2_01.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 62651
+  },
+  "spd_20240318_bn_list_FF7_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 65963
+  },
+  "spd_20240329_bn_list_FF7_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 64443
+  },
+  "spd_20240329_bn_list_rengoku0401.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 72828
+  },
+  "spd_20240411_bn_list_FF16_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 67975
+  },
+  "spd_20240411_bn_list_rengoku.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 83313
+  },
+  "spd_20240411_bn_shingi.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 57169
+  },
+  "spd_20240419_bn_list_FF16.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 77820
+  },
+  "spd_20240419_bn_list_FF16_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 59398
+  },
+  "spd_20240430_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 61657
+  },
+  "spd_20240510_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 59466
+  },
+  "spd_20240520_bn_list_FF3_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 67257
+  },
+  "spd_20240531_bn_list_FF6_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 65004
+  },
+  "spd_20240610_bn_list_FF6_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 62472
+  },
+  "spd_20240620_bn_list_SO2_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 64034
+  },
+  "spd_20240620_bn_list_SO2_evolve.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 61945
+  },
+  "spd_20240620_bn_list_SO2_weapon.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 61267
+  },
+  "spd_20240630_bn_list_FF10_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 68060
+  },
+  "spd_20240710_bn_list_FF10_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 61499
+  },
+  "spd_20240719_bn_list_WOTV_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 66297
+  },
+  "spd_20240719_bn_list_WOTV_crown.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 64861
+  },
+  "spd_20240719_bn_list_WOTV_weapon.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 69410
+  },
+  "spd_20240731_bn_list_FF15.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 69389
+  },
+  "spd_20240731_bn_list_FF15_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 68114
+  },
+  "spd_20240809_bn_list_FF15_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 67482
+  },
+  "spd_20240819_bn_list_FFBE9th_sp.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 72758
+  },
+  "spd_20240819_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 72626
+  },
+  "spd_20240831_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 67110
+  },
+  "spd_20240831_bn_list_mugen.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 73674
+  },
+  "spd_20240911_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 65896
+  },
+  "spd_20240930_bn_list_FF13_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 69306
+  },
+  "spd_20241002_bn_list_HUB_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 64571
+  },
+  "spd_20241002_bn_list_HUB_02.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 64562
+  },
+  "spd_20241002_bn_list_HUB_tansaku01_top.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 68231
+  },
+  "spd_20241002_bn_list_HUB_tansaku02_top.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 68039
+  },
+  "spd_20241002_bn_list_HUB_tansaku03_top.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 69056
+  },
+  "spd_20241011_bn_list_FF13_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 60043
+  },
+  "spd_20241022_bn_list_FFBE9th.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 75312
+  },
+  "spd_20241022_bn_list_FFBE9th_sp.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 73611
+  },
+  "spd_20241031_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 72303
+  },
+  "spd_20241111_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 65798
+  },
+  "spd_20241120_bn_list_LoM_crown.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 63325
+  },
+  "spd_20241120_bn_list_VoM_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 59744
+  },
+  "spd_20241120_bn_list_VoM_evolve.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 57207
+  },
+  "spd_20241120_bn_list_VoM_weapon.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 63871
+  },
+  "spd_20241130_bn_list_FF8_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 54502
+  },
+  "spd_20241130_bn_list_otameshi_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 66517
+  },
+  "spd_20241209_bn_list_FF8_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 59498
+  },
+  "spd_20241227_bn_list_FF7.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 69934
+  },
+  "spd_20241227_bn_list_FF7_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 72943
+  },
+  "spd_20241227_bn_list_papuwa_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 59038
+  },
+  "spd_20241227_bn_list_papuwa_evolve.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 61621
+  },
+  "spd_20241227_bn_list_papuwa_sp.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 63710
+  },
+  "spd_20241227_bn_list_papuwa_weapon.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 62201
+  },
+  "spd_2024_bn_list_boukoku.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 87905
+  },
+  "spd_2024_bn_list_kyukyoku.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 83097
+  },
+  "spd_20250110_bn_list_FF7_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 67673
+  },
+  "spd_20250120_bn_list_guruguru_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 58602
+  },
+  "spd_20250120_bn_list_guruguru_evolve.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 61876
+  },
+  "spd_20250120_bn_list_guruguru_weapon.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 56384
+  },
+  "spd_20250131_bn_list_FF4_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 65328
+  },
+  "spd_20250210_bn_list_FF4_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 67383
+  },
+  "spd_20250220_bn_list_xeno_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 58117
+  },
+  "spd_20250220_bn_list_xeno_crown.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 58579
+  },
+  "spd_20250220_bn_list_xeno_weapon.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 60615
+  },
+  "spd_20250228_bn_list_FF9_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 67139
+  },
+  "spd_20250310_bn_list_FF9_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 61137
+  },
+  "spd_20250319_bn_list_FFBE.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 76265
+  },
+  "spd_20250319_bn_list_FFBE9thhalf_eve_sp.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 72525
+  },
+  "spd_20250319_bn_list_WOTV_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 70581
+  },
+  "spd_20250319_bn_list_WOTV_crown.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 68233
+  },
+  "spd_20250319_bn_list_WOTV_weapon.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 67077
+  },
+  "spd_20250331_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 68123
+  },
+  "spd_20250331_bn_list_choice.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 70757
+  },
+  "spd_20250331_bn_shingi.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 55730
+  },
+  "spd_20250411_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 64065
+  },
+  "spd_20250411_bn_list_FFBE_partyability.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 70550
+  },
+  "spd_20250421_bn_list_FFBE9thhalf_sp.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 75116
+  },
+  "spd_20250430_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 67692
+  },
+  "spd_20250430_bn_list_FFBE_partyability.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 67382
+  },
+  "spd_20250515_bn_list_FF5_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 74288
+  },
+  "spd_20250530_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 63760
+  },
+  "spd_20250530_bn_list_FFBE_partyability.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 67313
+  },
+  "spd_20250616_bn_list_FFBE.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 69903
+  },
+  "spd_20250616_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 71383
+  },
+  "spd_20250630_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 59621
+  },
+  "spd_20250715_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 67214
+  },
+  "spd_20250731_bn_list_FFBE_01.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 66485
+  },
+  "spd_20250815_bn_list_FFBE.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 66825
+  },
+  "spd_20250901_bn_list_rensen.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 69750
+  },
+  "spd_20250916_bn_list_FFBE.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 72279
+  },
+  "spd_20250916_bn_list_rensen.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 68876
+  },
+  "spd_20250930_bn_list_rensen.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 71687
+  },
+  "spd_2025_bn_list_keisyou.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 60519
+  },
+  "spd_bn_colosseum.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 72947
+  },
+  "spd_bn_geneitoubatu_top.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 40839
+  },
+  "spd_bn_list_00001.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 74344
+  },
+  "spd_bn_list_00002.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 67765
+  },
+  "spd_bn_list_00003.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 70072
+  },
+  "spd_bn_list_00004.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 88006
+  },
+  "spd_bn_list_00005.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 76193
+  },
+  "spd_bn_list_00006_02.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 57471
+  },
+  "spd_bn_list_00009_02.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 70411
+  },
+  "spd_bn_list_00012.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 73041
+  },
+  "spd_bn_list_00013.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 81977
+  },
+  "spd_bn_list_00014_01.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 73116
+  },
+  "spd_bn_list_12quest.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 71225
+  },
+  "spd_bn_list_bonus.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 72842
+  },
+  "spd_bn_list_countdown0.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 75057
+  },
+  "spd_bn_list_countdown1.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 69479
+  },
+  "spd_bn_list_countdown10.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 65373
+  },
+  "spd_bn_list_countdown2.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 65744
+  },
+  "spd_bn_list_countdown3.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 65564
+  },
+  "spd_bn_list_countdown4.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 64795
+  },
+  "spd_bn_list_countdown5.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 70724
+  },
+  "spd_bn_list_countdown6.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 70505
+  },
+  "spd_bn_list_countdown7.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 70156
+  },
+  "spd_bn_list_countdown8.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 65785
+  },
+  "spd_bn_list_countdown9.png": {
+   "cpk": "spdungeon4.cpk",
+   "size": 65549
+  },
+  "spd_bn_list_dummy.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 22909
+  },
+  "spd_bn_new_series_boss_top.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 44662
+  },
+  "spd_bn_partyability_top.png": {
+   "cpk": "spdungeon9.cpk",
+   "size": 42593
+  },
+  "spd_bn_rengoku-goku_top.png": {
+   "cpk": "spdungeon8.cpk",
+   "size": 34574
+  },
+  "spd_bn_rengoku_top.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 30131
+  },
+  "spd_bn_top_00003.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 58579
+  },
+  "spd_bn_top_hero.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 63912
+  },
+  "spd_bn_top_kadomatu.png": {
+   "cpk": "spdungeon3.cpk",
+   "size": 63636
+  },
+  "spd_bn_toubatu_top.png": {
+   "cpk": "spdungeon1.cpk",
+   "size": 36206
+  },
+  "spd_ver780_bn_list_darkvisionsabyss.png": {
+   "cpk": "spdungeon5.cpk",
+   "size": 75114
+  },
+  "spd_ver920_bn_list_roadtoglory.png": {
+   "cpk": "spdungeon7.cpk",
+   "size": 86791
+  },
+  "gacha_20210730_banner_crystal_change_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100001_list.png",
+   "size": 46262,
+   "global": "gacha_20210730_banner_crystal_change_top.png"
+  },
+  "gacha_20220729_FF7_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100001_detail.png",
+   "size": 49089,
+   "global": "gacha_20220729_FF7_exchange_crown_top.png"
+  },
+  "gacha_20220810_FF7_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100002_list.png",
+   "size": 49341,
+   "global": "gacha_20220810_FF7_exchange_crown_top.png"
+  },
+  "gacha_20220822_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100002_detail.png",
+   "size": 48566,
+   "global": "gacha_20220822_FFBE_exchange_crown_top.png"
+  },
+  "gacha_20220822_log_quartz_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100003_list.png",
+   "size": 51556,
+   "global": "gacha_20220822_log_quartz_top.png"
+  },
+  "gacha_20220831_FF5_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100003_detail.png",
+   "size": 49172,
+   "global": "gacha_20220831_FF5_exchange_crown_top.png"
+  },
+  "gacha_20220909_FF5_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100004_list.png",
+   "size": 45663,
+   "global": "gacha_20220909_FF5_exchange_crown_top.png"
+  },
+  "gacha_20220921_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100004_detail.png",
+   "size": 46442,
+   "global": "gacha_20220921_FFBE_exchange_crown_top.png"
+  },
+  "gacha_20220930_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100005_list.png",
+   "size": 46586,
+   "global": "gacha_20220930_FFBE_exchange_crown_top.png"
+  },
+  "gacha_20221011_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100005_detail.png",
+   "size": 46530,
+   "global": "gacha_20221011_FFBE_exchange_crown_top.png"
+  },
+  "gacha_20221031_FFBE_exchange_crown1_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100006_list.png",
+   "size": 46433,
+   "global": "gacha_20221031_FFBE_exchange_crown1_top.png"
+  },
+  "gacha_20221031_FFBE_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100006_detail.png",
+   "size": 47065,
+   "global": "gacha_20221031_FFBE_exchange_crown2_top.png"
+  },
+  "gacha_20221110_FF11_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100007_list.png",
+   "size": 51604,
+   "global": "gacha_20221110_FF11_exchange_crown_top.png"
+  },
+  "gacha_20221130_FF7_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100007_detail.png",
+   "size": 49897,
+   "global": "gacha_20221130_FF7_exchange_crown_top.png"
+  },
+  "gacha_20221209_FF7_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100008_list.png",
+   "size": 48287,
+   "global": "gacha_20221209_FF7_exchange_crown_top.png"
+  },
+  "gacha_20221220_seiken_exchange_crown1_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100008_detail.png",
+   "size": 45608,
+   "global": "gacha_20221220_seiken_exchange_crown1_top.png"
+  },
+  "gacha_20221220_seiken_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100009_list.png",
+   "size": 46413,
+   "global": "gacha_20221220_seiken_exchange_crown2_top.png"
+  },
+  "gacha_20221220_seiken_exchange_crown3_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100009_detail.png",
+   "size": 48096,
+   "global": "gacha_20221220_seiken_exchange_crown3_top.png"
+  },
+  "gacha_20221228_FF8_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100010_list.png",
+   "size": 46832,
+   "global": "gacha_20221228_FF8_exchange_crown_top.png"
+  },
+  "gacha_20230111_FF8_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100010_detail.png",
+   "size": 48625,
+   "global": "gacha_20230111_FF8_exchange_crown_top.png"
+  },
+  "gacha_20230131_FF3_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100011_list.png",
+   "size": 48400,
+   "global": "gacha_20230131_FF3_exchange_crown_top.png"
+  },
+  "gacha_20230210_FF0_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100011_detail.png",
+   "size": 49035,
+   "global": "gacha_20230210_FF0_exchange_crown_top.png"
+  },
+  "gacha_20230217_FFBE_exchange_crown1_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100012_list.png",
+   "size": 46796,
+   "global": "gacha_20230217_FFBE_exchange_crown1_top.png"
+  },
+  "gacha_20230217_FFBE_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100012_detail.png",
+   "size": 47042,
+   "global": "gacha_20230217_FFBE_exchange_crown2_top.png"
+  },
+  "gacha_20230228_FF2_exchange_crown1_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100013_list.png",
+   "size": 46400,
+   "global": "gacha_20230228_FF2_exchange_crown1_top.png"
+  },
+  "gacha_20230228_FF2_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99100013_detail.png",
+   "size": 48076,
+   "global": "gacha_20230228_FF2_exchange_crown2_top.png"
+  },
+  "gacha_20230310_FF9_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210001_list.png",
+   "size": 48075,
+   "global": "gacha_20230310_FF9_exchange_crown_top.png"
+  },
+  "gacha_20230320_FF7R_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210001_detail.png",
+   "size": 49488,
+   "global": "gacha_20230320_FF7R_exchange_crown_top.png"
+  },
+  "gacha_20230421_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210002_list.png",
+   "size": 46627,
+   "global": "gacha_20230421_FFBE_exchange_crown_top.png"
+  },
+  "gacha_20230428_FF4_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210002_detail.png",
+   "size": 46902,
+   "global": "gacha_20230428_FF4_exchange_crown_top.png"
+  },
+  "gacha_20230428_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210003_list.png",
+   "size": 46271,
+   "global": "gacha_20230428_FFBE_exchange_crown_top.png"
+  },
+  "gacha_20230511_FF3_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210003_detail.png",
+   "size": 48419,
+   "global": "gacha_20230511_FF3_exchange_crown_top.png"
+  },
+  "gacha_20191227_rankup_10_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210004_list.png",
+   "size": 55479
+  },
+  "gacha_20191227_rankup_30_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210004_detail.png",
+   "size": 60239
+  },
+  "gacha_20191227_rankup_3_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210005_list.png",
+   "size": 101507
+  },
+  "gacha_20191227_rankup_50_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210005_detail.png",
+   "size": 61105
+  },
+  "gacha_20200129_FFBE_exchange_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210006_list.png",
+   "size": 47609
+  },
+  "gacha_20200221_free_start_dash_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210006_detail.png",
+   "size": 44885
+  },
+  "gacha_20200521_medal_exchange_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210007_list.png",
+   "size": 195628
+  },
+  "gacha_20200814_hero_box_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210007_detail.png",
+   "size": 46863
+  },
+  "gacha_20200930_FFBE_stmogu_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211012_list.png",
+   "size": 52459
+  },
+  "gacha_20200930_free_start_dash_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211012_detail.png",
+   "size": 102821
+  },
+  "gacha_20201021_FFBE_stmogu_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210008_list.png",
+   "size": 44328
+  },
+  "gacha_20201106_FFBE_selection_exchange_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210008_detail.png",
+   "size": 50651
+  },
+  "gacha_20201127_all5-nv_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210009_list.png",
+   "size": 95556
+  },
+  "gacha_20201216_ULTIMATE_premium_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210009_detail.png",
+   "size": 90457
+  },
+  "gacha_20210129_banner_arena_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210010_list.png",
+   "size": 48906
+  },
+  "gacha_20210129_banner_exvius_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210010_detail.png",
+   "size": 44313
+  },
+  "gacha_20210129_banner_monday_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211004_list.png",
+   "size": 44428
+  },
+  "gacha_20210129_banner_normal_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211004_detail.png",
+   "size": 37520
+  },
+  "gacha_20210129_banner_select_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210011_list.png",
+   "size": 44396
+  },
+  "gacha_20210331_banner_exvius_change_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210011_detail.png",
+   "size": 50868
+  },
+  "gacha_20210331_banner_select5_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210012_list.png",
+   "size": 47971
+  },
+  "gacha_20210510_4thseason_rainbox_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210012_detail.png",
+   "size": 55612
+  },
+  "gacha_20210921_rank3_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210013_list.png",
+   "size": 96884
+  },
+  "gacha_20220630_FF6_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210013_detail.png",
+   "size": 46675
+  },
+  "gacha_20220711_xeno_exchange_crown02_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210014_list.png",
+   "size": 44502
+  },
+  "gacha_20220711_xeno_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210014_detail.png",
+   "size": 46396
+  },
+  "gacha_20220729_red_quartz_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210015_list.png",
+   "size": 52645
+  },
+  "gacha_20220822_FFBE_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210015_detail.png",
+   "size": 47712
+  },
+  "gacha_20220930_free_start_dash_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210016_list.png",
+   "size": 117974
+  },
+  "gacha_20221021_banner_monday_monthly_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99210016_detail.png",
+   "size": 51992
+  },
+  "gacha_20230131_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211002_list.png",
+   "size": 47902
+  },
+  "gacha_20230320_CCFF7R_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211002_detail.png",
+   "size": 56128
+  },
+  "gacha_20230320_FF7event_reprintpickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211003_list.png",
+   "size": 46647
+  },
+  "gacha_20230320_WOTV_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211003_detail.png",
+   "size": 47612
+  },
+  "gacha_20230329_FF6_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211010_list.png",
+   "size": 49098
+  },
+  "gacha_20230329_FFBE_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99211010_detail.png",
+   "size": 48440
+  },
+  "gacha_20230329_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920027_list.png",
+   "size": 47326
+  },
+  "gacha_20230410_FF13_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920027_detail.png",
+   "size": 48172
+  },
+  "gacha_20230421_FF8_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99911011_list.png",
+   "size": 55380
+  },
+  "gacha_20230428_FF10_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99911011_detail.png",
+   "size": 48353
+  },
+  "gacha_20230511_FF1_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920004_list.png",
+   "size": 44415
+  },
+  "gacha_20230511_FF2_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920004_detail.png",
+   "size": 47641
+  },
+  "gacha_20230519_dai_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920021_list.png",
+   "size": 48893
+  },
+  "gacha_20230531_FF7_reprint_event_box_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920021_detail.png",
+   "size": 52375
+  },
+  "gacha_20230531_FF7_reprintpickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920029_list.png",
+   "size": 45206
+  },
+  "gacha_20230531_dai_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920029_detail.png",
+   "size": 48711
+  },
+  "gacha_20230531_dai_exchange_crown3_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920006_list.png",
+   "size": 47682
+  },
+  "gacha_20230531_dai_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920006_detail.png",
+   "size": 45967
+  },
+  "gacha_20230612_FF12_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920037_list.png",
+   "size": 49722
+  },
+  "gacha_20230612_FF6_NVkakutei_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920037_detail.png",
+   "size": 45979
+  },
+  "gacha_20230612_FF6_event_box_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920039_list.png",
+   "size": 50478
+  },
+  "gacha_20230612_FF6_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920039_detail.png",
+   "size": 47876
+  },
+  "gacha_20230612_FF6_kakutei_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920011_list.png",
+   "size": 39697
+  },
+  "gacha_20230630_FF13_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920011_detail.png",
+   "size": 55345
+  },
+  "gacha_20230630_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920005_list.png",
+   "size": 48842
+  },
+  "gacha_20230720_LoM_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920005_detail.png",
+   "size": 45183
+  },
+  "gacha_20230731_FF15_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920012_list.png",
+   "size": 48796
+  },
+  "gacha_20230731_FFBE_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920012_detail.png",
+   "size": 57245
+  },
+  "gacha_20230731_reprintevent_pickup_FF_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920035_list.png",
+   "size": 47804
+  },
+  "gacha_20230731_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920035_detail.png",
+   "size": 47335
+  },
+  "gacha_20230810_FF6_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920049_list.png",
+   "size": 48937
+  },
+  "gacha_20230821_FFBE_NVticket_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920049_detail.png",
+   "size": 78788
+  },
+  "gacha_20230821_FFBE_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920043_list.png",
+   "size": 52394
+  },
+  "gacha_20230821_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920043_detail.png",
+   "size": 46483
+  },
+  "gacha_20230831_FA_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920044_list.png",
+   "size": 49278
+  },
+  "gacha_20230831_FA_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920044_detail.png",
+   "size": 49528
+  },
+  "gacha_20230831_FF_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920008_list.png",
+   "size": 54587
+  },
+  "gacha_20230831_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920008_detail.png",
+   "size": 46645
+  },
+  "gacha_20230911_FA_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920045_list.png",
+   "size": 48798
+  },
+  "gacha_20230930_FF0_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920045_detail.png",
+   "size": 54932
+  },
+  "gacha_20230930_Party_fire_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920046_list.png",
+   "size": 52102
+  },
+  "gacha_20230930_Party_light_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920046_detail.png",
+   "size": 50887
+  },
+  "gacha_20230930_Party_water_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920002_list.png",
+   "size": 49852
+  },
+  "gacha_20230930_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920002_detail.png",
+   "size": 47856
+  },
+  "gacha_20231010_event_ticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920028_list.png",
+   "size": 47098
+  },
+  "gacha_20231020_FFBE_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920028_detail.png",
+   "size": 46313
+  },
+  "gacha_20231020_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920033_list.png",
+   "size": 48494
+  },
+  "gacha_20231110_FF15_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920033_detail.png",
+   "size": 53761
+  },
+  "gacha_20231110_WOTV_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920034_list.png",
+   "size": 53273
+  },
+  "gacha_20231110_WOTV_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920034_detail.png",
+   "size": 45966
+  },
+  "gacha_20231110_reprintevent_pickup_FF15_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920013_list.png",
+   "size": 47063
+  },
+  "gacha_20231110_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920013_detail.png",
+   "size": 49680
+  },
+  "gacha_20231120_xeno_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920015_list.png",
+   "size": 41747
+  },
+  "gacha_20231130_xeno_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920015_detail.png",
+   "size": 47752
+  },
+  "gacha_20231130_xeno_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920014_list.png",
+   "size": 48716
+  },
+  "gacha_20231211_Party_darkness_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920014_detail.png",
+   "size": 47630
+  },
+  "gacha_20231220_FF10_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920010_list.png",
+   "size": 47824
+  },
+  "gacha_20231228_FFBE4th_NVticket_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920010_detail.png",
+   "size": 87197
+  },
+  "gacha_20231228_FFBE_event_box_reprint2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920030_list.png",
+   "size": 55660
+  },
+  "gacha_20231228_FFBE_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920030_detail.png",
+   "size": 54926
+  },
+  "gacha_20231228_event_reprintticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920024_list.png",
+   "size": 46430
+  },
+  "gacha_20231228_reprintekakera_exchange_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920024_detail.png",
+   "size": 190055
+  },
+  "gacha_20240111_Party_soil_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920038_list.png",
+   "size": 48855
+  },
+  "gacha_20240131_WOTV_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920038_detail.png",
+   "size": 56589
+  },
+  "gacha_20240131_reprintevent_ticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920022_list.png",
+   "size": 49005
+  },
+  "gacha_20240209_FF12_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920022_detail.png",
+   "size": 48536
+  },
+  "gacha_20240219_Party_Thunder_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920048_list.png",
+   "size": 47695
+  },
+  "gacha_20240219_ROTO_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920048_detail.png",
+   "size": 46804
+  },
+  "gacha_20240310_FFT_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920025_list.png",
+   "size": 53795
+  },
+  "gacha_20240310_reprintevent_pickup_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920025_detail.png",
+   "size": 47264
+  },
+  "gacha_20240430_FFBE_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920036_list.png",
+   "size": 56556
+  },
+  "gacha_20240430_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920036_detail.png",
+   "size": 47904
+  },
+  "gacha_20240430_reprintevent_ticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920042_list.png",
+   "size": 47238
+  },
+  "gacha_20240520_FF3_exchange_crown2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920042_detail.png",
+   "size": 46389
+  },
+  "gacha_20240531_Party_Ice_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920032_list.png",
+   "size": 47512
+  },
+  "gacha_20240630_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920032_detail.png",
+   "size": 48670
+  },
+  "gacha_20240710_FF10_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920051_list.png",
+   "size": 57241
+  },
+  "gacha_20240710_NVticket_darkness_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920051_detail.png",
+   "size": 80774
+  },
+  "gacha_20240710_NVticket_light_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920050_list.png",
+   "size": 82216
+  },
+  "gacha_20240710_reprintevent_ticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920050_detail.png",
+   "size": 46879
+  },
+  "gacha_20240719_NVticket2_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920026_list.png",
+   "size": 82279
+  },
+  "gacha_20240719_NVticket_WOTV_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920026_detail.png",
+   "size": 91857
+  },
+  "gacha_20240719_NVticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920007_list.png",
+   "size": 84985
+  },
+  "gacha_20240719_WOTV_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920007_detail.png",
+   "size": 48635
+  },
+  "gacha_20240809_FF12_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920003_list.png",
+   "size": 57426
+  },
+  "gacha_20240809_reprintevent_NVkakera_exchange_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920003_detail.png",
+   "size": 57274
+  },
+  "gacha_20240809_reprintevent_NVticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920001_list.png",
+   "size": 43443
+  },
+  "gacha_20240809_reprintevent_ticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920001_detail.png",
+   "size": 46998
+  },
+  "gacha_20240831_FF0_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920023_list.png",
+   "size": 47480
+  },
+  "gacha_20240831_FFBE_exchange_crown_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920023_detail.png",
+   "size": 44942
+  },
+  "gacha_20240831_item_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920009_list.png",
+   "size": 49329
+  },
+  "gacha_20240831_reprintevent_NVkakera_exchange_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920009_detail.png",
+   "size": 55567
+  },
+  "gacha_20240831_reprintevent_ticket_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920031_list.png",
+   "size": 45760
+  },
+  "gacha_20240920_FFBE_event_box_reprint_top.png": {
+   "path": "exvius/data/static/client/files/ko/season_art/99920031_detail.png",
+   "size": 53276
+  }
+ },
+ "stamp": "a1316616ecac"
+}

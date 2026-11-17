@@ -97,6 +97,10 @@
 - 드물게 「通信エラー」(통신 오류)가 뜰 수 있습니다. 다시 시도하면 대부분 넘어갑니다.
 - 번역은 기계 번역 초벌에 검수를 거쳤지만 어색한 문장이 남아 있을 수 있습니다.
 
+## 소스 코드
+이 배포판을 만든 스크립트·후킹·엔진 확장 코드와 번역 용어집은 [`source/`](source/)에 있습니다(MIT 라이선스, [`source/LICENSE`](source/LICENSE)).
+바탕이 된 오프라인 엔진은 [Elvlin/exvius-offline](https://github.com/Elvlin/exvius-offline)이며, 라이선스가 명시돼 있지 않아 이 저장소에 복사하지 않았습니다.
+
 ## 면책
 - 이 프로젝트는 비공식·비영리 팬 작업이며 SQUARE ENIX 및 alim과 관계가 없습니다.
 - FINAL FANTASY BRAVE EXVIUS와 관련된 모든 권리는 원 권리자에게 있습니다.
