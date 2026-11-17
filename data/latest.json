@@ -1,88 +1,88 @@
 {
   "schema": 1,
-  "revision": 2,
-  "version": "2026.11.17.2",
+  "revision": 3,
+  "version": "2026.11.17.3",
   "minAppVersionCode": 194,
   "packs": [
     {
       "id": "data-001",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-001.zip",
-      "size": 1224592829,
-      "unpackedSize": 1462001682,
-      "sha256": "e8169b3478c6627557b31e9795309e76543dcb2ab10456dded475ad9035766c3"
+      "size": 1223219210,
+      "unpackedSize": 1460628347,
+      "sha256": "738a894200f1354e21aee1aafb6b3a2a4f7a12242eb1a6266e22930714423300"
     },
     {
       "id": "data-002",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-002.zip",
-      "size": 1461683002,
-      "unpackedSize": 1461491008,
-      "sha256": "8cee7ae49cabfa3c907366288748a4e506d7cd41c8406200048f6bc95c36ed73"
+      "size": 1463224130,
+      "unpackedSize": 1463032552,
+      "sha256": "39b47d483ffd06f2e065526845c5da55bf7ff882d82471aee2b8a17963e34620"
     },
     {
       "id": "data-003",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-003.zip",
-      "size": 1459353457,
-      "unpackedSize": 1459187867,
-      "sha256": "b95a99d38ff8da3bda9f3bf6b8c48e4c847a3afa0f77fc95ceeffbf73d37adcc"
+      "size": 1463010213,
+      "unpackedSize": 1462843923,
+      "sha256": "82787998a5dee536a0c68ac5e3cf761b7985d125c47c8e5729b0fa81a0d1b98c"
     },
     {
       "id": "data-004",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-004.zip",
-      "size": 1460337282,
-      "unpackedSize": 1460172552,
-      "sha256": "28f2c80550402db733fd62d26396ace500eb61a2042b8cb5e20016af6b7e7008"
+      "size": 1456798402,
+      "unpackedSize": 1456626072,
+      "sha256": "ea616a1ef3d0fbe0d9d74ab180e0b10ecfc3fac5b4aa1a7b4309d66645ad9ffb"
     },
     {
       "id": "data-005",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-005.zip",
-      "size": 1440495748,
-      "unpackedSize": 1440484524,
-      "sha256": "ace29d0f4241eebeddf08701c1d082c2fa9887401b2b8fec55b7af9ace38a1d2"
+      "size": 1459257700,
+      "unpackedSize": 1459243724,
+      "sha256": "b3348ab95c7be9e7f00a8d4f3dda4aa39060d22b87ebef6bb7dbdc671bf1ae9c"
     },
     {
       "id": "data-006",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-006.zip",
-      "size": 1442124958,
-      "unpackedSize": 1442113536,
-      "sha256": "b2ae2c0e05331c3f135b4ebfff1b1a3d284849c6c5d68d60b84787509c83beff"
+      "size": 1442728682,
+      "unpackedSize": 1442717248,
+      "sha256": "9923bbf7117b1657170143caa917627a1d7662182ce261146794446670f7b384"
     },
     {
       "id": "data-007",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-007.zip",
-      "size": 1463788719,
-      "unpackedSize": 1463759871,
-      "sha256": "187cf6d30061fc68a4ac0174a5a65935589affdb320f495c29a3c8109f1b65a0"
+      "size": 1458617933,
+      "unpackedSize": 1458589535,
+      "sha256": "14fb7ef4cba94bcddc85f562808622e88cc8999997addbc088ac77f605a11776"
     },
     {
       "id": "data-008",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-008.zip",
-      "size": 1459113733,
-      "unpackedSize": 1459063287,
-      "sha256": "38fe73ad5bdc060df84ef99fd78e0e8faf68d077e8208e760cfc23465186d98f"
+      "size": 1463702549,
+      "unpackedSize": 1463652631,
+      "sha256": "6ef01b6f576d3b47d0d80f12d8be6320d98ae06974cb459ee388c0bac1b0515a"
     },
     {
       "id": "data-009",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-009.zip",
-      "size": 1463798084,
-      "unpackedSize": 1463711296,
-      "sha256": "a476ff5a65a8804551676bbd6789f747b187a562fcfb0319d86e4a87e57ebb18"
+      "size": 1460355698,
+      "unpackedSize": 1460268480,
+      "sha256": "d0bacf7828d3435629b0a06aa20ea1bcb5c5ea92de37ddc866449abfdd4d226e"
     },
     {
       "id": "data-010",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-010.zip",
-      "size": 1461806933,
-      "unpackedSize": 1461783225,
-      "sha256": "6068c7a6eb1abf24cf786fb43b1db466e63c2bbdf5349f1e1cb6bb2d8dfff367"
+      "size": 1453903792,
+      "unpackedSize": 1453879664,
+      "sha256": "12e2ec21a446d75615c48dcc5073ca2079e319a12ec6aa5bb385900b4588cc97"
     },
     {
       "id": "data-011",
       "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-011.zip",
-      "size": 306427112,
-      "unpackedSize": 306398291,
-      "sha256": "d069143d356185f5efb4e63b8fc92a7e7f614b093438ded84d81e7f280105e34"
+      "size": 364121349,
+      "unpackedSize": 364091962,
+      "sha256": "d3772b41505716408a95f47329c58a2752380297106b6e44d54a1d466f4f4c32"
     }
   ],
-  "downloadBytes": 14643521857,
-  "installedBytes": 14880167139,
-  "files": 14052
+  "downloadBytes": 14708939658,
+  "installedBytes": 14945574138,
+  "files": 14129
 }
