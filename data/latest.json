@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "revision": 3,
-  "version": "2026.11.17.3",
-  "minAppVersionCode": 194,
+  "revision": 4,
+  "version": "2026.11.17.4",
+  "minAppVersionCode": 195,
   "packs": [
     {
       "id": "data-001",
@@ -80,9 +80,16 @@
       "size": 364121349,
       "unpackedSize": 364091962,
       "sha256": "d3772b41505716408a95f47329c58a2752380297106b6e44d54a1d466f4f4c32"
+    },
+    {
+      "id": "data-012",
+      "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-012.zip",
+      "size": 70925684,
+      "unpackedSize": 70913628,
+      "sha256": "21525567f1bcf1a5ca8981c810096029892dae84e56d96feb6d4b7bcd492eb67"
     }
   ],
-  "downloadBytes": 14708939658,
-  "installedBytes": 14945574138,
-  "files": 14129
+  "downloadBytes": 14779865342,
+  "installedBytes": 15016487766,
+  "files": 14210
 }
