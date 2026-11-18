@@ -93,10 +93,10 @@
   "installedBytes": 15016487766,
   "files": 14210,
   "app": {
-    "versionCode": 198,
-    "versionName": "0.1.1",
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.1/ExviusKR-v0.1.1.apk",
-    "size": 201105305,
-    "sha256": "96972066ad2585b59f851d8db9f938fdc488ba91beefefbee51944a3c9911986"
+    "versionCode": 199,
+    "versionName": "0.1.2",
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.2/ExviusKR-v0.1.2.apk",
+    "size": 201605017,
+    "sha256": "4a6a5c3b45402776485fcf8d77f35a62eeccce015e58f5085a420be84fd2df3a"
   }
 }
