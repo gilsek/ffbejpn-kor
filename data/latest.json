@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 4,
-  "version": "2026.11.17.4",
+  "revision": 5,
+  "version": "2026.11.21.5",
   "minAppVersionCode": 195,
   "packs": [
     {
@@ -87,25 +87,32 @@
       "size": 70925684,
       "unpackedSize": 70913628,
       "sha256": "21525567f1bcf1a5ca8981c810096029892dae84e56d96feb6d4b7bcd492eb67"
+    },
+    {
+      "id": "data-013",
+      "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.0/jpkr-data-013.zip",
+      "size": 49319145,
+      "unpackedSize": 49285912,
+      "sha256": "119fdeeab0abec79e71dbc72e4605d6490f81fe1fcafec072566505bbebd2651"
     }
   ],
-  "downloadBytes": 14779865342,
-  "installedBytes": 15016487766,
-  "files": 14210,
+  "downloadBytes": 14829184487,
+  "installedBytes": 15065773678,
+  "files": 14474,
   "app": {
-    "version": "0.1.5",
-    "versionCode": 202,
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.5/ExviusKR-v0.1.5.apk",
-    "size": 201965465,
-    "sha256": "d5a556c9d49677509b6107b135b1f69364a74a72f6ad87740595d4e98fbc73d9",
-    "versionName": "0.1.5"
+    "version": "0.1.6",
+    "versionCode": 203,
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.6/ExviusKR-v0.1.6.apk",
+    "size": 201981849,
+    "sha256": "a67670e45f22e6e72c6488eeb990449c0503cf08a61a090959d48783119d73ed",
+    "versionName": "0.1.6"
   },
   "iosApp": {
-    "version": "0.1.5",
-    "versionCode": 202,
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.5/ExviusKR-v0.1.5.ipa",
-    "size": 277027380,
-    "sha256": "e79c6b6933569f12a11df08ff77f642ab632108eafc3a277091c2a71054ac880",
-    "versionName": "0.1.5"
+    "version": "0.1.6",
+    "versionCode": 203,
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.6/ExviusKR-v0.1.6.ipa",
+    "size": 277030704,
+    "sha256": "b644823593c1cb44f8f8099cf241888db8bf2b9cf1492fe246603e5cc568b7a1",
+    "versionName": "0.1.6"
   }
 }
