@@ -100,19 +100,19 @@
   "installedBytes": 15065773678,
   "files": 14474,
   "app": {
-    "version": "0.1.10-hotfix",
-    "versionCode": 209,
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.10-hotfix/ExviusKR-v0.1.10-hotfix.apk",
-    "size": 204918681,
-    "sha256": "f4165c6f8df1563c26f6def83403d72f482dd4eda74c7ca48972d6347f9d4329",
-    "versionName": "0.1.10-hotfix"
+    "version": "0.1.11",
+    "versionName": "0.1.11",
+    "versionCode": 210,
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.11/ExviusKR-v0.1.11.apk",
+    "size": 205180825,
+    "sha256": "9d251c821bff20dc16a026e115861af8eb2679e84767dd3cbb95c48cde161aad"
   },
   "iosApp": {
-    "version": "0.1.10-hotfix",
-    "versionCode": 209,
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.10-hotfix/ExviusKR-v0.1.10-hotfix.ipa",
-    "size": 279941766,
-    "sha256": "cfd8438d581c3637e074b8e83eb42e9deba4b8080923f02af3ef5adaaa9f860e",
-    "versionName": "0.1.10-hotfix"
+    "version": "0.1.11",
+    "versionName": "0.1.11",
+    "versionCode": 210,
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.11/ExviusKR-v0.1.11.ipa",
+    "size": 280203455,
+    "sha256": "f907249d4e716ae891dc8855469ca5900855b432afbfe42d44ec0877b6f9af0a"
   }
 }
