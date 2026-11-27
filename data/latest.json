@@ -100,19 +100,19 @@
   "installedBytes": 15065773678,
   "files": 14474,
   "app": {
-    "version": "0.1.13",
-    "versionCode": 213,
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.13/ExviusKR-v0.1.13.apk",
+    "version": "0.1.13-hotfix",
+    "versionCode": 214,
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.13-hotfix/ExviusKR-v0.1.13-hotfix.apk",
     "size": 205189017,
-    "sha256": "decd3a8a3275418869cb7cb7a53159cdd200eda2a76cc96ae20241961bd2f8ed",
-    "versionName": "0.1.13"
+    "sha256": "9ed11295d8dd4c70a40e7992825071f653ff121a97c717d600d66ddbddd59b37",
+    "versionName": "0.1.13-hotfix"
   },
   "iosApp": {
-    "version": "0.1.13",
-    "versionCode": 213,
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.13/ExviusKR-v0.1.13.ipa",
-    "size": 280219925,
-    "sha256": "0abc6a0cb21c788a36ab3277e5900985e189d11e2dd136f0abb9de3ebab500dc",
-    "versionName": "0.1.13"
+    "version": "0.1.13-hotfix",
+    "versionCode": 214,
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.13-hotfix/ExviusKR-v0.1.13-hotfix.ipa",
+    "size": 280220666,
+    "sha256": "c4adac8b6d94251602530fbb16d8309d0039ba79d8193e77da81d70a20717ec3",
+    "versionName": "0.1.13-hotfix"
   }
 }
