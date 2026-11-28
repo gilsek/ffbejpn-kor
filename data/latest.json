@@ -100,19 +100,19 @@
   "installedBytes": 15065773678,
   "files": 14474,
   "app": {
-    "version": "0.1.14",
-    "versionCode": 216,
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.14/ExviusKR-v0.1.14.apk",
-    "size": 205205401,
-    "sha256": "82cc2909eb2d0a033603a5e2c4d89dcc23fd2d2fce6dd09f8c92c7b62bcd5f2c",
-    "versionName": "0.1.14"
+    "version": "0.1.15",
+    "versionCode": 217,
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.15/ExviusKR-v0.1.15.apk",
+    "size": 205209497,
+    "sha256": "7e3f820fcfce52016ddbb253da946dd15164ab828f1938099306d2d32808fd73",
+    "versionName": "0.1.15"
   },
   "iosApp": {
-    "version": "0.1.14",
-    "versionCode": 216,
-    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.14/ExviusKR-v0.1.14.ipa",
-    "size": 280224092,
-    "sha256": "f09ec33f7c3727d6fd720d17bf9885f82e3371ad1b24dbaffe7c36b8c42a706e",
-    "versionName": "0.1.14"
+    "version": "0.1.15",
+    "versionCode": 217,
+    "url": "https://github.com/gilsek/ffbejpn-kor/releases/download/v0.1.15/ExviusKR-v0.1.15.ipa",
+    "size": 280230862,
+    "sha256": "684a060400acc6dd7524201c89c1fb8c9fa51b3fa4ac22c9eb2be6fcfcaae1b1",
+    "versionName": "0.1.15"
   }
 }
